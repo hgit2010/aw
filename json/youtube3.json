@@ -1,0 +1,393 @@
+{
+"recommend":"最新|推薦 最新|熱門| 最新|#shorts",
+
+"class":[
+{"type_id":"LIST:🐉🐲🆘豅䪊挊@taowchen1521","type_name":"🐉🐲🆘豅䪊挊"},
+{"type_id":"台灣新聞 直播","type_name":"台灣新聞台"},
+{"type_id":"LIST:關鍵時刻","type_name":"政論節目"},
+{"type_id":"LIST:TVBS娛樂頭條","type_name":"娛樂新聞"},
+{"type_id":"LIST:11點熱吵店","type_name":"綜藝節目①"},
+{"type_id":"LIST:現代啟示錄","type_name":"綜藝節目②"},
+{"type_id":"三立台劇","type_name":"台灣劇"},
+{"type_id":"旅遊台灣","type_name":"旅遊台灣"},
+{"type_id":"stopkiddinstudio","type_name":"不要鬧工作室"},
+{"type_id":"Sean的世界 台灣","type_name":"Sean 肖恩 台灣行"},
+{"type_id":"易拉罐 台灣行","type_name":"易拉罐 台灣行"},
+{"type_id":"LIST:獅心瘋","type_name":"YouTuber①"},
+{"type_id":"LIST:老高與小茉 Mr & Mrs Gao","type_name":"YouTuber②"},
+{"type_id":"鏡頭下爆笑","type_name":"YouTuber③"},
+{"type_id":"LIST:李船長筆記","type_name":"YouTuber④"},
+{"type_id":"陸配","type_name":"外配"},
+{"type_id":"PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3","type_name":"自己分享"},
+{"type_id":"PL8c_zzr_v4WFAkl7wwOjXmpxs0QdIV-NQ","type_name":"客廳分享"},
+{"type_id":"#shorts 短片","type_name":"shorts"},
+{"type_id":"一口氣看完","type_name":"一口氣看完"}
+],
+
+"filters":{
+"台灣新聞 直播":[
+{"key":"tid","name":"中文","value":[
+{"n":"默認","v":"台灣新聞 直播"},
+{"n":"TVBS新聞","v":"TVBS NEWS網路獨家新聞24小時直播"},
+{"n":"中天新聞","v":"CTI中天新聞24小時HD新聞直播"},
+{"n":"三立新聞","v":"三立新聞 24小時直播 LIVE 三立+"},
+{"n":"民視新聞","v":"LIVE 民視新聞 FTV 新聞直播"},
+{"n":"中視新聞","v":"中視新聞LIVE直播頻道24小時線上直播"},
+{"n":"東森財經新聞","v":"東森財經新聞24小時線上直播"},
+{"n":"東森財經股市","v":"東森財經股市24小時直播"},
+{"n":"錢線百分百","v":"【錢線百分百】"},
+{"n":"理財達人秀","v":"【理財達人秀】"},
+{"n":"三立財經新聞","v":"三立iNEWS 24小時 CH48新聞直播"},
+{"n":"鏡新聞","v":"鏡新聞 線上看 24小時 新聞直播"},
+{"n":"寰宇新聞台","v":"寰宇新聞台 24小時線上直播"},
+{"n":"寰宇新聞台灣台","v":"寰宇新聞 台灣台"},
+{"n":"台視新聞","v":"台視新聞台HD 24 小時線上直播"},
+{"n":"華視新聞","v":"華視新聞直播 CH52"},
+{"n":"公視新聞","v":"公視新聞 PTS News  24小時線上直播"},
+{"n":"公共電視","v":"公共電視 13頻道 網路直播 PTS Live"}
+]},
+{"key":"tid","name":"English","value":[
+{"n":"Live","v":"live"},
+{"n":"Games","v":"live games"},
+{"n":"CNN","v":"live CNN"},
+{"n":"BBC","v":"live BBC"}
+]}
+],
+
+"LIST:關鍵時刻":[
+
+{"key":"tid","name":"中文","value":[
+{"n":"關鍵時刻","v":"關鍵時刻"},
+{"n":"少康戰情室","v":"少康戰情室"},
+{"n":"政經最前線","v":"政經最前線"},
+{"n":"數字台灣","v":"數字台灣"},
+{"n":"美国之音中文网","v":"美国之音中文网"},
+{"n":"文昭談古論今","v":"文昭談古論今 -Wen Zhao Official"},
+{"n":"年代向錢看","v":"年代向錢看"},
+{"n":"文茜的世界周報","v":"文茜的世界周報"},
+{"n":"57爆新聞","v":"57爆新聞"},
+{"n":"新聞大白話","v":"新聞大白話"},
+{"n":"民眾之聲","v":"民眾之聲"},
+{"n":"新聞面對面","v":"新聞面對面"},
+{"n":"關我什麼事","v":"關我什麼事"},
+{"n":"新聞哇哇哇","v":"新聞哇哇哇"}
+]}
+],
+
+"LIST:TVBS娛樂頭條":[
+{"key":"tid","name":"中文","value":[
+{"n":"TVBS娛樂頭條","v":"TVBS娛樂頭條"},
+{"n":"噓!星聞","v":"噓!星聞"},
+{"n":"ETtoday星光雲","v":"ETtoday星光雲"},
+{"n":"緯來綜合台","v":"緯來綜合台"},
+{"n":"八大電視娛樂百分百","v":"八大電視娛樂百分百"},
+{"n":"壹蘋新聞網","v":"壹蘋新聞網"},
+{"n":"【擠看看】 TVBS新聞","v":"【擠看看】 TVBS新聞"},
+{"n":"三立娛樂星聞","v":"三立娛樂星聞"},
+{"n":"CTWANT 娛樂新聞 ","v":"CTWANT 娛樂新聞 "},
+{"n":"KTS娛樂新聞台","v":"KTS娛樂新聞台"}
+]}
+],
+
+"旅遊台灣":[
+{"key":"tid","name":"中文","value":[
+{"n":"韓國女生Judy","v":"韓國女生Judy"},
+{"n":"蜜拉士愷","v":"波蘭女孩x台灣男孩蜜拉士愷"},
+{"n":"旅遊真台灣","v":"旅遊真台灣 Lena & Patrick"},
+{"n":"酷的夢","v":"Ku's dream酷的夢-"},
+{"n":"Prozzie","v":"Prozzie"},
+{"n":"大豐大哥大","v":"大豐大哥大"},
+{"n":"台灣尋奇","v":"台灣尋奇"},
+{"n":"阿貝很全能","v":"阿貝很全能"},
+{"n":"小熙","v":"小熙xiaoxi 샤오시"},
+{"n":"小杜的生活日記","v":"小杜的生活日記 Du's Diary"},
+{"n":"外國人介紹台灣","v":"外國人介紹台灣 - Lukas in Taiwan (盧卡斯)"},
+{"n":"魚肉壯壯","v":"魚肉壯壯"},
+{"n":"歐亞力","v":"lexww歐亞力"},
+{"n":"莫彩曦","v":"莫彩曦Hailey"},
+{"n":"德克旅遊趣","v":"德克旅遊趣"}
+]}
+],
+
+"LIST:獅心瘋":[
+{"key":"tid","name":"中文","value":[
+{"n":"未解之謎 扶搖","v":"未解之謎 扶搖"},
+{"n":"零度解說","v":"@lingdujieshuo"},
+{"n":"Top 5 Trends","v":"Top 5 Trends"},
+{"n":"Frank贾.枫下杂谈","v":"Frank 贾.枫下杂谈"},
+{"n":"N楚立功","v":"N楚立功"},
+{"n":"葉富源","v":"葉富源"},
+{"n":"人体百科David伟","v":"人体百科David伟"},
+{"n":"獅心瘋","v":"獅心瘋"},
+{"n":"曲博科技教室","v":"曲博科技教室 Dr. J Class"},
+{"n":"ELIN艾琳","v":"ELIN艾琳_Official"},
+{"n":"無有淺談","v":"無有淺談"}
+]}
+],
+
+"陸配":[
+{"key":"tid","name":"中文","value":[
+{"n":"徐子雅","v":"徐子雅"},
+{"n":"丸子妮","v":"丸子妮"},
+{"n":"我是黨黨","v":"我是黨黨"},
+{"n":"魯國巧娘在台灣","v":"#魯國巧娘在台灣"},
+{"n":"圓臉麥麥","v":"圓臉麥麥"},
+{"n":"大静子","v":"大静子"},
+{"n":"涼涼一家","v":"涼涼一家Liana's family"},
+{"n":"村花嫁台灣","v":"村花嫁台灣"},
+{"n":"jennie愛吃鍋","v":"jennie愛吃鍋"},
+{"n":"Amy英國奶奶","v":"Amy英國奶奶 My Asian Adventure"},
+{"n":"雷米拉","v":"雷米拉 | Mila's cozy vlog"},
+{"n":"Alisa愛生活","v":"Alisa愛生活"},
+{"n":"台灣媳婦lily麗麗","v":"台灣媳婦lily麗麗"},
+{"n":"Cianna欣在台灣","v":"Cianna欣在台灣唯一帳號"},
+{"n":"台灣媳婦飄飄","v":"台灣媳婦飄飄"},
+{"n":"靜靜在台灣","v":"靜靜在台灣& Life"},
+{"n":"花花の台灣","v":"新住民花花の台灣Life"},
+{"n":"成都妹子在台灣","v":"成都妹子在台灣"}
+]}
+],
+
+
+"#shorts 短片":[
+{"key":"tid","name":"中文","value":[
+{"n":"搞笑","v":"#shorts 搞笑"},
+{"n":"生活小技巧","v":"#shorts 生活小技巧"},
+{"n":"美女","v":"#shorts 美女"},
+{"n":"流行","v":"#shorts 流行"},
+{"n":"DIY","v":"#shorts DIY"},
+{"n":"木工","v":"#shorts 木工"},
+{"n":"水電","v":"#shorts 水電"},
+{"n":"網紅","v":"#shorts 網紅"},
+{"n":"知識","v":"#shorts 知識"}
+]}
+],
+
+"LIST:11點熱吵店":[
+{"key":"tid","name":"中文","value":[
+{"n":"百萬兄弟","v":"百萬兄弟|陳孟賢|陳昭瑋"},
+{"n":"11點熱吵店","v":"11點熱吵店"},
+{"n":"全民星攻略","v":"全民星攻略"},
+{"n":"WTO姐妹會","v":"WTO姐妹會"},
+{"n":"型男大主廚","v":"型男大主廚"},
+{"n":"天才衝衝衝","v":"天才衝衝衝"},
+{"n":"下面一位","v":"下面一位"},
+{"n":"綜藝大集合","v":"綜藝大集合"},
+{"n":"綜藝大熱門","v":"綜藝大熱門"},
+{"n":"超級冰冰Show","v":"超級冰冰Show"},
+{"n":"綜藝一級棒","v":"綜藝一級棒"},
+{"n":"超級紅人榜","v":"超級紅人榜"},
+{"n":"全能歌手","v":"全能歌手"},
+{"n":"小姐不熙娣","v":"小姐不熙娣"},
+{"n":"女人我最大","v":"女人我最大"},
+{"n":"同學來了","v":"同學來了"},
+{"n":"CEO考察日記","v":"CEO考察日記"},
+{"n":"籃籃Vlog","v":"籃籃Vlog"},
+{"n":"女神搜查線","v":"女神搜查線"},
+{"n":"韓國男團合輯💜","v":"韓國男團合輯💜"},
+{"n":"韓國點閱破億女團","v":"韓國點閱破億女團"}
+]}
+],
+
+"一口氣看完":[
+{"key":"tid","name":"中文","value":[
+{"n":"温城鲤","v":"温城鲤"},
+{"n":"米虫看剧","v":"米虫看剧"},
+{"n":"愛講電影的小青","v":"愛講電影的小青"},
+{"n":"番茄憨包","v":"番茄憨包"},
+{"n":"小帥看劇","v":"小帥看劇"},
+{"n":"好剧播放机","v":"好剧播放机"},
+{"n":"不睡觉的喵星人","v":"不睡觉的喵星人"},
+{"n":"月老不睡覺","v":"月老不睡覺"},
+{"n":"糖心毛豆","v":"糖心毛豆"},
+{"n":"一本电影","v":"一本电影"},
+{"n":"冷冷撩電影","v":"冷冷撩電影"},
+{"n":"橘子解說","v":"橘子解說 - Orange Commentary"},
+{"n":"如梦剧场","v":"如梦剧场"},
+{"n":"兔子大叔爱短剧","v":"兔子大叔爱短剧"},
+{"n":"11区的老霖","v":"11区的老霖"},
+{"n":"小白白盘剧","v":"小白白盘剧"},
+{"n":"太阳说","v":"太阳说"},
+{"n":"影视鉴赏君","v":"影视鉴赏君"},
+{"n":"小林爱看剧","v":"小林爱看剧"},
+{"n":"悟空看劇","v":"悟空看劇"}
+]}
+],
+
+"stopkiddinstudio":[
+{"key":"tid","name":"中文","value":[
+{"n":"奧地利相關系列","v":"奧地利相關系列 (Austrian Culture)Stopkiddinstudio"},
+{"n":"波蘭相關系列","v":"波蘭相關系列 (Polish Culture)Stopkiddinstudio"},
+{"n":"烏克蘭相關系列","v":"烏克蘭相關系列 (Ukrainian Culture)Stopkiddinstudio"},
+{"n":"韓國相關系列","v":"韓國相關系列(Korean Culture)Stopkiddinstudio"},
+{"n":"日本相關系列","v":"日本相關系列(Japanese Culture)Stopkiddinstudio"},
+{"n":"俄羅斯相關系列","v":"俄羅斯相關系列 (Russian Culture)Stopkiddinstudio"},
+{"n":"美國相關系列","v":"美國相關系列 (American Culture)Stopkiddinstudio"},
+{"n":"各國女生系列","v":"各國女生系列 (Girlfriends World Edition)Stopkiddinstudio"},
+{"n":"全世界最狂的打招呼方式","v":"全世界最狂的打招呼方式 (Best Way to Surprise Friends)Stopkiddinstudio"},
+{"n":"各國文化介紹","v":"各國文化介紹(World Culture)Stopkiddinstudio"},
+{"n":"老外的第一次","v":"老外的第一次 (Foreigners' First Time)Stopkiddinstudio"},
+{"n":"外國人整復推拿系列","v":"外國人整復推拿系列 (Taiwanese Massage)Stopkiddinstudio"},
+{"n":"外國人挑戰系列","v":"外國人挑戰系列(EPIC Challenge)Stopkiddinstudio"},
+{"n":"外國人瘋台灣","v":"外國人瘋台灣 (行)Travel TaiwanStopkiddinstudio"},
+{"n":"外國人推廣台灣","v":"外國人推廣台灣(Promote Taiwan)Stopkiddinstudio"},
+{"n":"外國人瘋台灣","v":"外國人瘋台灣 (食)Food TaiwanStopkiddinstudio"},
+{"n":"外國人看台灣議題","v":"外國人看台灣議題(Phenomenons in Taiwan)Stopkiddinstudio"},
+{"n":"那些電影教我們的事","v":"那些電影教我們的事 (Movies)Stopkiddinstudio"},
+{"n":"tatyana b","v":"tatyana b"}
+]}
+],
+
+"Sean的世界 台灣":[
+{"key":"tid","name":"中文","value":[
+{"n":"小雨","v":"小雨在这里 台灣"},
+{"n":"Sean世界TV,大陆哥俩再闯台湾","v":"大陆哥俩再闯台湾Sean的世界 TV "},
+{"n":"Sean逛吃TV,逛吃台湾第四季","v":"逛吃台湾第四季Sean逛吃TV "},
+{"n":"Sean世界TV,走遍台湾","v":"走遍台湾，东线走起！Sean的世界 TV "},
+{"n":"Sean逛吃TV,台湾行","v":"台湾行Sean逛吃TV "},
+{"n":"Sean世界TV,台湾旅行第二弹","v":"台湾旅行第二弹！Sean的世界 TV "},
+{"n":"Sean世界TV,宝岛台湾我来啦","v":"宝岛台湾我来啦！Sean的世界 TV "}
+]}
+],
+
+"易拉罐 台灣行":[
+{"key":"tid","name":"中文","value":[
+{"n":"系列片《台湾故事》","v":"系列片《台湾故事》易拉罐的记事本NewBee "},
+{"n":"台湾第七季 2024","v":"台湾第七季2024易拉罐的记事本NewBee "},,
+{"n":"台湾第六季 2024","v":"台湾第六季2024易拉罐的记事本NewBee "},,
+{"n":"台湾第五季2024","v":"台湾第五季2024易拉罐的记事本NewBee "},
+{"n":"台湾第四季2024","v":"台湾第四季2024易拉罐的记事本NewBee "},
+{"n":"台湾第三季 2024","v":"台湾第三季 2024易拉罐的记事本NewBee "},
+{"n":"台湾第二季 2023","v":"台湾第二季 2023易拉罐的记事本NewBee "},
+{"n":"台湾第一季 2023","v":"台湾第一季 2023易拉罐的记事本NewBee "}
+]}
+],
+
+"三立台劇":[
+{"key":"tid","name":"中文","value":[
+{"n":"三立台劇","v":"三立台劇 SET Drama"},
+{"n":"戲說台灣","v":"戲說台灣"},
+{"n":"民視戲劇館","v":"民視戲劇館 Formosa TV Dramas"}
+]}
+],
+
+
+"LIST:現代啟示錄":[
+{"key":"tid","name":"中文","value":[
+{"n":"現代啟示錄","v":"現代啟示錄"},
+{"n":"台灣啟示錄","v":"台灣啟示錄"},
+{"n":"進擊的台灣","v":"進擊的台灣"},
+{"n":"台灣百廟","v":"台灣百廟"},
+{"n":"台灣1001個故事","v":"台灣1001個故事"},
+{"n":"台灣60hz","v":"台灣60hz"}
+]}
+],
+
+"LIST:老高與小茉 Mr & Mrs Gao":[
+{"key":"tid","name":"中文","value":[
+{"n":"奇軒Tricking","v":"奇軒Tricking"},
+{"n":"Roman and Sharon","v":"Roman and Sharon"},
+{"n":"是曼玉不是鰻魚","v":"是曼玉不是鰻魚"},
+{"n":"老高與小茉 Mr & Mrs Gao","v":"老高與小茉 Mr & Mrs Gao"},
+{"n":"Jay Lee Painting","v":"Jay Lee Painting"},
+{"n":"葉式特工Yes Ranger","v":"葉式特工Yes Ranger"},
+{"n":"小穎美食","v":"小穎美食"},
+{"n":"Pan Piano","v":"Pan Piano"},
+{"n":"這群人 TGOP","v":"這群人 TGOP"},
+{"n":"阿神","v":"阿神"},
+{"n":"大樹君TreeMan","v":"大樹君TreeMan"},
+{"n":"阿滴英文","v":"阿滴英文"},
+{"n":"Ru's Piano Ru味春捲","v":"Ru's Piano Ru味春捲"},
+{"n":"小高姐的 Magic Ingredients","v":"小高姐的 Magic Ingredients"},
+{"n":"Joeman","v":"Joeman"},
+{"n":"蔡阿嘎","v":"蔡阿嘎"},
+{"n":"Lucas and Kibo","v":"Lucas and Kibo"},
+{"n":"Tingting ASMR","v":"Tingting ASMR"},
+{"n":"木曜4超玩","v":"木曜4超玩"},
+{"n":"李子柒 Liziqi","v":"李子柒 Liziqi"},
+{"n":"辦公室小野 Ms Yeah","v":"辦公室小野 Ms Yeah"},
+{"n":"滇西小哥 Dianxi Xiaoge","v":"滇西小哥 Dianxi Xiaoge"},
+{"n":"眾量級CROWD","v":"眾量級CROWD"},
+{"n":"黃氏兄弟","v":"黃氏兄弟"},
+{"n":"Terry Films","v":"Terry Films"},
+{"n":"李永樂老師","v":"李永樂老師"},
+{"n":"美食作家王剛","v":"美食作家王剛"},
+{"n":"主頻道【谷阿莫】","v":"主頻道【谷阿莫】"},
+{"n":"DE JuN","v":"DE JuN"}
+]}
+],
+"鏡頭下爆笑":[
+{"key":"tid","name":"中文","value":[
+{"n":"千千進食中","v":"千千進食中"},
+{"n":"MASAの料理ABC","v":"MASAの料理ABC"},
+{"n":"STR Network","v":"STR Network"},
+{"n":"阿木爺爺 Grandpa Amu","v":"阿木爺爺 Grandpa Amu"},
+{"n":"Ku's dream酷的夢-","v":"Ku's dream酷的夢-"},
+{"n":"ASMR Bakery","v":"ASMR Bakery"},
+{"n":"腦洞烏托邦","v":"腦洞烏托邦"},
+{"n":"宇哥侃故事","v":"宇哥侃故事"},
+{"n":"Shyo Video 山藥視頻","v":"Shyo Video 山藥視頻"},
+{"n":"自說自話的總裁","v":"自說自話的總裁"},
+{"n":"小Lin說","v":"小Lin說"},
+{"n":"WACKYBOYS 反骨男孩","v":"WACKYBOYS 反骨男孩"},
+{"n":"Naomi Wu","v":"Naomi Wu"},
+{"n":"龍梅梅Longmeimei","v":"龍梅梅Longmeimei"},
+{"n":"X調查","v":"X調查"},
+{"n":"蔡阿嘎Life","v":"蔡阿嘎Life"},
+{"n":"人生肥宅x尊","v":"人生肥宅x尊"},
+{"n":"莫彩曦 Hailey","v":"莫彩曦 Hailey"},
+{"n":"啾啾鞋","v":"啾啾鞋"},
+{"n":"白癡公主","v":"白癡公主"},
+{"n":"77老大","v":"77老大"},
+{"n":"黃阿瑪的後宮生活","v":"黃阿瑪的後宮生活"},
+{"n":"三原JAPAN Sanyuan_JAPAN","v":"三原JAPAN Sanyuan_JAPAN"},
+{"n":"Allen Tsai","v":"Allen Tsai"},
+{"n":"HowFun","v":"HowFun"},
+{"n":"HOOK","v":"HOOK"},
+{"n":"Howwork X 六指淵","v":"Howwork X 六指淵"},
+{"n":"Rosalina's Kitchen 蘿潔塔的廚房","v":"Rosalina's Kitchen 蘿潔塔的廚房"},
+{"n":"美食彩味 VS 明玥美食 Magic Food","v":"美食彩味 VS 明玥美食 Magic Food"},
+{"n":"滴妹","v":"滴妹"}
+]}
+],
+"LIST:李船長筆記":[
+{"key":"tid","name":"中文","value":[
+{"n":"李船長筆記","v":"李船長筆記"},
+{"n":"PAPAYA 電腦教室","v":"PAPAYA 電腦教室"},
+{"n":"MrYang楊家成","v":"MrYang楊家成"},
+{"n":"cheap","v":"cheap"},
+{"n":"喪屍老爸","v":"喪屍老爸"},
+{"n":"二米炊煙ErmiChuiyan","v":"二米炊煙ErmiChuiyan"},
+{"n":"胖猴仔","v":"胖猴仔"},
+{"n":"好棒Bump","v":"好棒Bump"},
+{"n":"安啾咪","v":"安啾咪"},
+{"n":"曼食慢語 Amanda Tastes","v":"曼食慢語 Amanda Tastes"},
+{"n":"shuaisoserious","v":"shuaisoserious"},
+{"n":"搞神馬","v":"搞神馬"},
+{"n":"狠愛演","v":"狠愛演"},
+{"n":"小玉","v":"@user-jz5ki5cq5x"},
+{"n":"Onion Man","v":"Onion Man"},
+{"n":"王志安 Wang Zhian","v":"王志安 Wang Zhian"},
+{"n":"魚乾","v":"魚乾"},
+{"n":"放火 Louis","v":"放火 Louis"},
+{"n":"錫蘭Ceylan","v":"錫蘭Ceylan"},
+{"n":"聖結石Saint","v":"聖結石Saint"},
+{"n":"三度C","v":"三度C"},
+{"n":"周六野 Zoey","v":"周六野 Zoey"},
+{"n":"妙見神與方臉 Wonderful God & Square Face","v":"妙見神與方臉 Wonderful God & Square Face"},
+{"n":"越哥說電影","v":"越哥說電影"},
+{"n":"冒險雷探長","v":"冒險雷探長"},
+{"n":"科幻夢工場","v":"科幻夢工場"},
+{"n":"LIFEANO CLUB","v":"LIFEANO CLUB"}
+]}
+],
+
+
+
+
+
+"時尚潮流":[]
+},
+"jx":0,
+"parse":0
+}
