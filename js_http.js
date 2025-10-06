@@ -1,5 +1,5 @@
 {
-"spider":"./jar/f0925.jar",
+"spider":"./jar/f1002.jar",
 "logo": "./謝分享.gif",
 "lives":[
 {"name":"立視LiTV🇹🇼","type": 3,"api": "./py/live_litv.py","ext": {},"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},

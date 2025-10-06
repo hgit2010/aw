@@ -3,7 +3,7 @@
 //飯太硬 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745406107388/f0423a.txt;md5;d67e776740fc297d90f0310f701d8b83",
 //"spider":"./f0423a.jar",
 //飯太硬 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740249213752/f0223.txt
-"spider":"./jar/f0925.jar",
+"spider":"./jar/f1002.jar",
 "logo": "./謝分享.gif",
 "lives":[
 {"name":"立視LiTV🇹🇼","type": 3,"api": "./py/live_litv.py","ext": {},"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
