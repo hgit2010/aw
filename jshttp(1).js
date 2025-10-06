@@ -26,8 +26,8 @@
 ],
 "hosts": ["cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn"],
 "sites" : [
-{"key":"drpy","name":"🔥豆瓣(有評分 )　２０２５👉財運如🪱,連綿不斷🌻","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"sq豆瓣","name":"🔥豆瓣(有評分 )　２０２５👉財運如🪱,連綿不斷🌻一定要平平安安呦✅","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+{"key":"drpy","name":"🔥豆瓣(有評分 )　２０２５下半年👉蛇采飛揚☀蛇麼都有💥嘶嘶如意♥","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"sq豆瓣","name":"🔥豆瓣(有評分 )　２０２５下半年👉蛇采飛揚☀蛇麼都有💥嘶嘶如意♥","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"瓜子短劇","name":"✅瓜子短劇","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"jar":"./jar/nzk.jar","changeable":0},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js","searchable":1,"changeable":1},
 {"key":"太硬白白","name":"✅白白(高清)","type":3,"api":"csp_SbaibaiGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
