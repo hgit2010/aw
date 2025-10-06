@@ -19,8 +19,6 @@
 {"name":"🎬影視集1","url":"./直播源/影視集1.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"🎬影視集2","url":"./直播源/影視集2.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"Anboxgo🇹🇼🇨🇳","url":"http://ott.anbox118.workers.dev/","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
-{"name":"🈲18","url":"./直播源/live2.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"🆘測試","url":"./testx.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"MyTvSuper","url": "http://xg.52sw.top/play/mytvsuper/index-mytvsuper.php","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 
 ],
