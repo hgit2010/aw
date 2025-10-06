@@ -4,7 +4,6 @@ CCTV3綜藝(kkitv),http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
 CCTV3綜藝(zqh2333),http://zqh2333.top:2222/rtp/239.93.24.150:5140
 CCTV3綜藝(171),http://171.15.18.199:8180/TV00000000000000000003@HHZT
 CCTV3綜藝(nykj297),http://nykj297.hassmedia.com:8080/newlive/live/hls/3/live.m3u8
-
 CCTV4,#genre#
 CCTV4,https://www.youtube.com/watch?v=SdzewdkJa-o
 
