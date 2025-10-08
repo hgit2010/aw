@@ -1,6 +1,6 @@
 {"urls":[
 {"name":"🤗(3)","url":"https://raw.githubusercontent.com/hgit2010/aw/main/jshttp(1).js"},
-{"name":"🎇本地Dl js test","url":"./Download/js/test.js"},
+{"name":"🎇本地Dl js test","url":"file://Download/js/test.js"},
 {"name":"🤗(2)","url":"https://raw.githubusercontent.com/hgit2010/aw/main/js_http.js"},
 {"name":"🤗pg包","url":"https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json"},
 {"name":"🤗檸檬","url":"https://raw.githubusercontent.com/hgit2010/aw/main/json/catcr.json"},
