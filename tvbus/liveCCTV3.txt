@@ -1,5 +1,5 @@
 CCTV3,#genre#
-CCTV3綜藝(網頁),video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV3綜藝(網頁),video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV3綜藝(kkitv),http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
 CCTV3綜藝(zqh2333),http://zqh2333.top:2222/rtp/239.93.24.150:5140
 CCTV3綜藝(171),http://171.15.18.199:8180/TV00000000000000000003@HHZT
