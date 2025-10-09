@@ -1,4 +1,4 @@
-新闻,#genre#
+新聞,#genre#
 TVBS新聞,https://www.youtube.com/live/m_dhMSvUCIc
 TVBS選新聞,https://www.youtube.com/live/w1zClUN04Do
 TVBS地震,https://www.youtube.com/live/0eOhU2J_MXE
@@ -21,7 +21,7 @@ NBC NEW,https://www.youtube.com/live/28wlObFCQrE
 CNN NEW,https://www.youtube.com/live/YDfiTGGPYCk
 CCTV新聞,https://www.youtube.com/live/SdzewdkJa-o
 NHK新聞,https://www.youtube.com/live/f0lYkdA-Gtw
-影视综艺,#genre#
+影視綜藝,#genre#
 大愛,https://www.youtube.com/watch?v=MIqUplvSRWA
 大愛2,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 中視綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
@@ -43,7 +43,6 @@ NHK新聞,https://www.youtube.com/live/f0lYkdA-Gtw
 男女对唱,https://www.youtube.com/watch?v=W3Axy3nJUgU  
 男女對唱,https://www.youtube.com/watch?v=Q_BYTfKF2Zc
 男女对唱°,https://www.youtube.com/watch?v=DYx6elXyQJ4
-
 野外求生01,#genre#
 《互為貴人》第1季（01-04）合集,https://www.youtube.com/watch?v=6lvo0XGhpLA
 《互為貴人》第2季（05-09）合集,https://www.youtube.com/watch?v=sXpsNdI29AQ
@@ -163,7 +162,6 @@ NHK新聞,https://www.youtube.com/live/f0lYkdA-Gtw
 游牧民族的孩子早當家，每次遷徙建造都是主力軍,https://www.youtube.com/watch?v=omaGJAslFEY
 野外捕獵技術哪家強，這傢伙無疑是天花板的存在（合集）,https://www.youtube.com/watch?v=RiEbrcmpqDI
 野外捕魚器的技巧（合集），看看鬍子哥的野外捕魚技巧，一口氣讓你看個夠,https://www.youtube.com/watch?v=jRn0VrhZMmo
-
 野外求生02,#genre#
 豪華帳篷露營，森林ASMR,https://www.youtube.com/watch?v=XLqOiVH2rOM
 負10度 巨型帳篷露營，冰雪覆蓋，極寒單人露營ASMR,https://www.youtube.com/watch?v=B3VcQanC0co
@@ -197,7 +195,7 @@ NHK新聞,https://www.youtube.com/live/f0lYkdA-Gtw
 在暴雨中用巨型充氣帳篷露營 雨天 ASMR 喝馬格利酒煎餅,https://www.youtube.com/watch?v=ddUXneuqiCk
 在暴雨中露營，全新汽車帳篷，享受下雨天ASMR（ASR）,https://www.youtube.com/watch?v=KER2_iRCUhg
 在暴雨中露營，全新豪華充氣帳篷，享受下雨天ASMR（ASR）,https://www.youtube.com/watch?v=TDZvRgCBkjM
-在暴雨中露營，全新豪華充氣帳篷，享受下雨天ASMR（ASR）,https://www.youtube.com/watch?v=viYaz_-Wd_U
+在暴雨中露營，全新豪華充氣帳篷，享受下雨天ASMR,https://www.youtube.com/watch?v=viYaz_-Wd_U
 在暴雨中露營，五星級飯店充氣帳篷，享受雨天ASMR（ASR）,https://www.youtube.com/watch?v=n3_aPHMiUMs
 在暴風雪中露營，全新充氣帳篷，享受拖拉機的駕駛,https://www.youtube.com/watch?v=PaD_go6j2KI
 在舒適的海邊露營，全新充氣帳篷，享受ASMR（ASR）,https://www.youtube.com/watch?v=O2uoNVNOW7I
@@ -284,7 +282,6 @@ NHK新聞,https://www.youtube.com/live/f0lYkdA-Gtw
 在森林中舒適露營 大自然 ASMR 汽車劇院,https://www.youtube.com/watch?v=NhfP3FZdtts
 在最美的湖泊旁獨自露營，讓人忘卻一切煩惱 大自然 ASMR,https://www.youtube.com/watch?v=9DRTcgLb7OY
 在雨中豪華房車露營,https://www.youtube.com/watch?v=45GqZTU4xuY
-
 韓國工廠01,#genre#
 冒著生命危險採蜜，乳牛場擠牛奶！開啟一段奇妙的美食之旅,https://www.youtube.com/watch?v=h7tqWf8A_cs
 食品工業生產革新！米糕量產背後的瘋狂技術。,https://www.youtube.com/watch?v=GOt83j4oqzA
@@ -501,7 +498,7 @@ TOP 4！農業是科學。韓國科學家如何種植新鮮蔬菜和蘑菇,https
 韓國汽車徹底拆解修復再組裝的男子,https://www.youtube.com/watch?v=Jf3lXPnQ_yE
 連人類都被騙了！超逼真的草眼和牙齒製作。,https://www.youtube.com/watch?v=pkLU5KR0iNs
 掌控時間！世界第一韓國冷凍食品背後的瘋狂生產速度,https://www.youtube.com/watch?v=isXiwFvV9sY
-冒著生命危險的挑戰！男子徒手在樹頂採蜜！,https://www.youtube.com/watch?v=7IwFEOBMPrM
+冒著生命危險的挑戰男子徒手在樹頂採蜜！,https://www.youtube.com/watch?v=7IwFEOBMPrM
 床的創新！用泥土製作床的瘋狂過程。韓國土床,https://www.youtube.com/watch?v=8LdXE4x1WHU
 食品工業生產創新！米糕量產背後的瘋狂技術。,https://www.youtube.com/watch?v=GOt83j4oqzA
 用枯樹容納海洋的瘋狂過程。韓國樹脂桌,https://www.youtube.com/watch?v=MRkMzWx0KHA
@@ -539,7 +536,6 @@ King Process 三週年特輯！觀看傳奇三部曲最佳視頻,https://www.you
 韓國最後的手工溜冰鞋和登山靴製作工藝,https://www.youtube.com/watch?v=S1YjgwbpqGc
 不容錯過的千年遺產！完成結繩和鼓技藝的韓國大師,https://www.youtube.com/watch?v=eQa_fBC0qok
 冒著生命危險採蜜和乳牛場擠奶！開啟一段奇妙的美食之旅,https://www.youtube.com/watch?v=h7tqWf8A_cs
-
 台灣工廠01,#genre#
 馬蹄鐵鍛造 & 更換 - Taiwanese Farrier,https://www.youtube.com/watch?v=hZd_7fr77-Y
 鑄鐵鍋量產過程 - Taiwan Ironware Factory,https://www.youtube.com/watch?v=Trw1bsKbo0k
@@ -556,7 +552,7 @@ CR-S汽車輪胎量產工廠 - Taiwan Tire Factory,https://www.youtube.com/watch
 公路車碳纖維輪組量產 - Taiwan Bike Wheel System Factory,https://www.youtube.com/watch?v=C5aXws6mijQ
 廟宇建造過程 (福德祠) - Taiwan Temple Factory,https://www.youtube.com/watch?v=C6SAuOOYySc
 武士刀鍛造過程 -Taiwanese Swordsmith,https://www.youtube.com/watch?v=UQ-e9HQ_cc4
-自動化洗選蛋工廠, 液體蛋加工 - Food Factory,https://www.youtube.com/watch?v=odM4aRkxT38
+自動化洗選蛋工廠  液體蛋加工 - Food Factory,https://www.youtube.com/watch?v=odM4aRkxT38
 鑄鋁中華炒鍋 - Taiwan Wok Factory,https://www.youtube.com/watch?v=0fkAic7B9cc
 人孔蓋製造過程 - Taiwan Factory,https://www.youtube.com/watch?v=64OHo2wuFgQ
 手工女鞋製作 - Taiwan Shoemaker,https://www.youtube.com/watch?v=BmBf8n1xXlg
@@ -565,7 +561,6 @@ CR-S汽車輪胎量產工廠 - Taiwan Tire Factory,https://www.youtube.com/watch
 碳纖維釣竿製造 - Taiwan Factory,https://www.youtube.com/watch?v=7sIIRhMYI78
 機車製造過程: 哈特佛小雲豹 - Taiwan Motorbike Factory,https://www.youtube.com/watch?v=u7nz6s7n_Ro
 Process of Making Retreaded Tire with Old Truck Tires in 2 Different Ways - Tire Recycling Factory,https://www.youtube.com/watch?v=brB4zbsKVH8
-
 台灣食物01,#genre#
 香蕉蛋糕製作達人- Taiwanese Food,https://www.youtube.com/watch?v=OA7JCSVaV9s
 草莓蛋糕製作 - Taiwanese Food,https://www.youtube.com/watch?v=gRPPWTuD1T8
@@ -574,13 +569,13 @@ Taiwanese Street Food Shilin Night Market 2021,https://www.youtube.com/watch?v=H
 手工冬瓜茶製作 - Taiwanese Food,https://www.youtube.com/watch?v=Dat_tsjW0zs
 法式馬卡龍製作 - Taiwanese Food,https://www.youtube.com/watch?v=uSf4X3Uo3Cg
 Happiness memory! Traditional Chinese wedding cake making skills - Taiwanese food,https://www.youtube.com/watch?v=7JZgf_pajqE
-蛋奶酥煎餅(舒芙蕾鬆餅), 梅子冰茶 - Taiwanese Food,https://www.youtube.com/watch?v=Q1IHvs9mNgU
+蛋奶酥煎餅(舒芙蕾鬆餅)  梅子冰茶 - Taiwanese Food,https://www.youtube.com/watch?v=Q1IHvs9mNgU
 手工鍋貼饅頭 - Taiwanese Food,https://www.youtube.com/watch?v=saEt6wHV9Is
 紫芋酥(芋頭酥)製作 - Taiwanese Food,https://www.youtube.com/watch?v=KIVGlAfhfd8
-米蛋糕瑞士捲, 波士頓派 - Taiwanese food,https://www.youtube.com/watch?v=IWw5k7WrQeY
-意麵, 雞絲麵工廠 - Taiwanese food factory,https://www.youtube.com/watch?v=BctDth_nJno
+米蛋糕瑞士捲  波士頓派 - Taiwanese food,https://www.youtube.com/watch?v=IWw5k7WrQeY
+意麵  雞絲麵工廠 - Taiwanese food factory,https://www.youtube.com/watch?v=BctDth_nJno
 豪華派對餐盒 - Taiwanese food,https://www.youtube.com/watch?v=49u9ImYpQws
-紫米酥, 花生糖製作 - Taiwanese food factory,https://www.youtube.com/watch?v=-2YL8Xnp0Us
+紫米酥  花生糖製作 - Taiwanese food factory,https://www.youtube.com/watch?v=-2YL8Xnp0Us
 百年米粉製作老店 - Taiwanese food,https://www.youtube.com/watch?v=XfCUFSxFD5E
 中秋節月餅製作 - Taiwanese food,https://www.youtube.com/watch?v=1Z1uyPDLOh0
 日式和菓子 -Taiwanese Food,https://www.youtube.com/watch?v=nFcVFhajml0
@@ -589,130 +584,129 @@ Happiness memory! Traditional Chinese wedding cake making skills - Taiwanese foo
 小琉球麻花捲製作 - Taiwan street food,https://www.youtube.com/watch?v=FjX4ZhLXZxM
 4種奢華饅頭製作 - Taiwanese food,https://www.youtube.com/watch?v=CBDXOPJ8z_0
 8 kinds of luxury Taiwanese street food at a 5-star hotel,https://www.youtube.com/watch?v=88rMyW4j-SE
-廣式烤鴨壽司, 烤鴨捲餅 - Taiwanese food,https://www.youtube.com/watch?v=Kcf8sW3DrI4
+廣式烤鴨壽司  烤鴨捲餅 - Taiwanese food,https://www.youtube.com/watch?v=Kcf8sW3DrI4
 鱘龍魚饗宴 - Taiwanese food,https://www.youtube.com/watch?v=0875RLExtds
-炸全雞, 炸雞排 - Taiwan street food [ASMR],https://www.youtube.com/watch?v=2JCMFlrVPiA
+炸全雞 炸雞排 - Taiwan street food [ASMR],https://www.youtube.com/watch?v=2JCMFlrVPiA
 彩虹千層蛋糕量產-Food factory,https://www.youtube.com/watch?v=mzOeemg4b6A
-Boiled Mochi(Glutinous Rice Ball), Longan Congee, Sweet Peanut Soup/燒麻糬, 龍眼粥, 花生湯-Taiwan street food,https://www.youtube.com/watch?v=L4ZFIyy_wvg
-台南古早味椪餅, 月子餅 - Taiwanese food,https://www.youtube.com/watch?v=b0ShV0MkZVA
-埔里鹹油條,蔥油餅,紅豆酥餅-Taiwan street food,https://www.youtube.com/watch?v=IRZmV4O_gF0
+Boiled Mochi(Glutinous Rice Ball)  Longan Congee  Sweet Peanut Soup/燒麻糬  龍眼粥  花生湯-Taiwan street food,https://www.youtube.com/watch?v=L4ZFIyy_wvg
+台南古早味椪餅  月子餅 - Taiwanese food,https://www.youtube.com/watch?v=b0ShV0MkZVA
+埔里鹹油條 蔥油餅 紅豆酥餅-Taiwan street food,https://www.youtube.com/watch?v=IRZmV4O_gF0
 披薩厚片吐司大量製作 - Taiwanese food,https://www.youtube.com/watch?v=G6IBGBwJ_y4
-烏魚子製作, 烏魚料理 - Taiwanese Food,https://www.youtube.com/watch?v=YX7u5R11PA8
+烏魚子製作  烏魚料理 - Taiwanese Food,https://www.youtube.com/watch?v=YX7u5R11PA8
 剝皮辣椒香腸工廠 - Taiwanese food,https://www.youtube.com/watch?v=J1OaSnGeoj8
-黃金泡菜, 飛魚卵海帶芽 - Taiwanese food,https://www.youtube.com/watch?v=L054aRvu320
-龍蝦蝦餅, 櫻花蝦餅製作 -Taiwanese food,https://www.youtube.com/watch?v=ez9n0Ox5A_A
+黃金泡菜  飛魚卵海帶芽 - Taiwanese food,https://www.youtube.com/watch?v=L054aRvu320
+龍蝦蝦餅  櫻花蝦餅製作 -Taiwanese food,https://www.youtube.com/watch?v=ez9n0Ox5A_A
 辣豆瓣醬量產工廠 - Food factory,https://www.youtube.com/watch?v=QGMLDAMIJos
 百年祖傳王家牛雜湯 - Taiwanese  Street Food,https://www.youtube.com/watch?v=J1mnZxjpBGo
 巨大爆漿菠蘿麵包製作 - Taiwanese food,https://www.youtube.com/watch?v=YWrJ-aELvGM
 鼠麴草草仔粿製作 - Taiwanese food,https://www.youtube.com/watch?v=cuw8keMRd0E
-冬菜蝦仁蛋湯, 沙鍋魚頭,https://www.youtube.com/watch?v=WsOcsS_S9Rw
-鐵板雞腿排, 厚切牛排 - Taiwan street food,https://www.youtube.com/watch?v=aHO-K_CdPcQ
-柴燒烤全豬, 原住民風味餐 - Taiwanese food,https://www.youtube.com/watch?v=4EGy4XOxhis
-拔絲地瓜麵包, 芋頭麵包 - Taiwanese food,https://www.youtube.com/watch?v=l4qHy_stzRU
-蔥仔條, 水煎包製作 - Taiwan Street Food,https://www.youtube.com/watch?v=_mif79AGB5w
+冬菜蝦仁蛋湯  沙鍋魚頭,https://www.youtube.com/watch?v=WsOcsS_S9Rw
+鐵板雞腿排  厚切牛排 - Taiwan street food,https://www.youtube.com/watch?v=aHO-K_CdPcQ
+柴燒烤全豬  原住民風味餐 - Taiwanese food,https://www.youtube.com/watch?v=4EGy4XOxhis
+拔絲地瓜麵包  芋頭麵包 - Taiwanese food,https://www.youtube.com/watch?v=l4qHy_stzRU
+蔥仔條  水煎包製作 - Taiwan Street Food,https://www.youtube.com/watch?v=_mif79AGB5w
 花生酥製作 - Taiwan street food,https://www.youtube.com/watch?v=Y2WeQH8_U6o
-[Private video],https://www.youtube.com/watch?v=DjxY_Zo1YL0
-巨大肉粿, 肉粿湯製作 - Taiwan Street Food,https://www.youtube.com/watch?v=_ed7PY2ENd8
+巨大肉粿  肉粿湯製作 - Taiwan Street Food,https://www.youtube.com/watch?v=_ed7PY2ENd8
 七彩太陽餅製作 - Taiwanese Food,https://www.youtube.com/watch?v=jx2b4zCIGkI
 關廟刀削麵製作 - Taiwanese food factory,https://www.youtube.com/watch?v=bkVnWF70BN8
-蔥花大餅, 牛肉餡餅, 咖哩餡餅 - Taiwan street food,https://www.youtube.com/watch?v=iFYOAHFCbnw
+蔥花大餅  牛肉餡餅  咖哩餡餅 - Taiwan street food,https://www.youtube.com/watch?v=iFYOAHFCbnw
 手工蹦蹦巧克力製作 - Taiwanese food,https://www.youtube.com/watch?v=VL4fQKxYsgI
 日式貝果製作達人 - Taiwanese food,https://www.youtube.com/watch?v=mSxeGDimmd0
-古早味芋丸, 粉粿冰製作 - Taiwan street food,https://www.youtube.com/watch?v=PZRbeq3Uwbs
-巨大黑鮪魚切割秀, 鐵板上腹肉 - Taiwanese food,https://www.youtube.com/watch?v=wFpipVmHiqI
-柴燒烤全豬, 原住民風味餐 - Taiwan street food,https://www.youtube.com/watch?v=W5MOF7D35Fw
-潤餅皮, 春捲-Taiwan street food,https://www.youtube.com/watch?v=s60tuHS5SQU
-手工義式冰淇淋, 冰淇淋雞蛋仔 -Taiwan street food,https://www.youtube.com/watch?v=UjrqMjXW1JI
+古早味芋丸  粉粿冰製作 - Taiwan street food,https://www.youtube.com/watch?v=PZRbeq3Uwbs
+巨大黑鮪魚切割秀  鐵板上腹肉 - Taiwanese food,https://www.youtube.com/watch?v=wFpipVmHiqI
+柴燒烤全豬  原住民風味餐 Taiwan street food,https://www.youtube.com/watch?v=W5MOF7D35Fw
+潤餅皮  春捲-Taiwan street food,https://www.youtube.com/watch?v=s60tuHS5SQU
+手工義式冰淇淋  冰淇淋雞蛋仔 -Taiwan street food,https://www.youtube.com/watch?v=UjrqMjXW1JI
 長島冰啤酒在啤酒廠的生產過程 - Taiwan street food,https://www.youtube.com/watch?v=nurSu96FRLo
 古早味白糖蔥製作 - Taiwan street food,https://www.youtube.com/watch?v=53H0-WXQ9jg
-300 Chickens sold out a day! Dangerous wood roasted whole chicken, Hakka tofu rolls - Taiwanese food,https://www.youtube.com/watch?v=RgxEGoC6XuI
-爆漿甜甜圈, 瑪格麗特甜甜圈 - Taiwanese food,https://www.youtube.com/watch?v=ZVo4rbTFCR8
-灌蛋餅, 糖酥餅, 長燒餅 - Taiwan street food,https://www.youtube.com/watch?v=tIdaTNhAQbQ
+300 Chickens sold out a day! Dangerous wood roasted whole chicken  Hakka tofu rolls - Taiwanese food,https://www.youtube.com/watch?v=RgxEGoC6XuI
+爆漿甜甜圈  瑪格麗特甜甜圈 - Taiwanese food,https://www.youtube.com/watch?v=ZVo4rbTFCR8
+灌蛋餅  糖酥餅  長燒餅 - Taiwan street food,https://www.youtube.com/watch?v=tIdaTNhAQbQ
 古早味手工麻糬 (紫米) - Taiwan street food,https://www.youtube.com/watch?v=ohpBy40N6Yg
-芋頭波士頓派, 乳酪蛋糕 - Taiwanese food,https://www.youtube.com/watch?v=bMGaTQX_pQs
+芋頭波士頓派  乳酪蛋糕 - Taiwanese food,https://www.youtube.com/watch?v=bMGaTQX_pQs
 炙燒黑鮪魚金三角握壽司,https://www.youtube.com/watch?v=4ire-ReaH2Q
-麥仔煎, 板煎嗲 (曼煎粿) - Taiwan street food,https://www.youtube.com/watch?v=U_ICvJP5hRc
-辣椒冰淇淋, 酥炸墨西哥辣椒點心 [ASMR],https://www.youtube.com/watch?v=mcKShSHAWcI
+麥仔煎  板煎嗲 (曼煎粿) - Taiwan street food,https://www.youtube.com/watch?v=U_ICvJP5hRc
+辣椒冰淇淋  酥炸墨西哥辣椒點心 [ASMR],https://www.youtube.com/watch?v=mcKShSHAWcI
 冰心維也納麵包 - Taiwanese Food,https://www.youtube.com/watch?v=8yWXOXosCNU
-Special traditional Taiwanese green onion pancake "Rou Bing" /蔥肉餅 (麻辣, 珍珠抹茶) - Taiwan street food,https://www.youtube.com/watch?v=CmZObJV_pVc
+Special traditional Taiwanese green onion pancake "Rou Bing" /蔥肉餅 (麻辣  珍珠抹茶) - Taiwan street food,https://www.youtube.com/watch?v=CmZObJV_pVc
 地瓜拌麵製作 - Taiwanese food,https://www.youtube.com/watch?v=bJ4-9QIHuwc
 黃金楓糖派製作,https://www.youtube.com/watch?v=hbqRYXVDT6A
 龍膽石斑魚海鮮麻辣火鍋,https://www.youtube.com/watch?v=PEzOri3UJ7M
 年輪蛋糕製作  - Food Factory,https://www.youtube.com/watch?v=yIUaRw070eY
 花枝丸量產工廠 - Food factory,https://www.youtube.com/watch?v=2rPIRoHGRC0
 紅燒鰻魚罐頭量產 - Food Factory,https://www.youtube.com/watch?v=di_1rjqmh40
-豆腐製作 (豆漿, 嫩豆腐, 油豆腐) - Taiwanese Food,https://www.youtube.com/watch?v=r70NI3Zi-a8
-80,000 Chickens a Day! Korean Style Fried Chicken & Chicken Processing Plant - Food Factory,https://www.youtube.com/watch?v=ZtTVGeELuEw
-Harvest! Tofu Skin & Bean Curd Roll Mass Production - 豆包, 豆腸製作 (非基改黃豆) - Taiwanese Food,https://www.youtube.com/watch?v=IJ2e5fo2mLI
+豆腐製作 (豆漿  嫩豆腐  油豆腐) - Taiwanese Food,https://www.youtube.com/watch?v=r70NI3Zi-a8
+80 000 Chickens a Day! Korean Style Fried Chicken & Chicken Processing Plant - Food Factory,https://www.youtube.com/watch?v=ZtTVGeELuEw
+Harvest! Tofu Skin & Bean Curd Roll Mass Production - 豆包  豆腸製作 (非基改黃豆) - Taiwanese Food,https://www.youtube.com/watch?v=IJ2e5fo2mLI
 日式長崎蜂蜜蛋糕製作 - Taiwanese food factory,https://www.youtube.com/watch?v=OPPYXVEQtds
-Chocolate making show! Horoscope chocolate, Nama chocolate - Chocolate factory in Taiwan,https://www.youtube.com/watch?v=5QG4j8tYl68
+Chocolate making show! Horoscope chocolate  Nama chocolate - Chocolate factory in Taiwan,https://www.youtube.com/watch?v=5QG4j8tYl68
 義大利羅馬披薩製作 - Taiwan Street Food,https://www.youtube.com/watch?v=k5MFlGOG7b4
 冷凍鮪魚切割工廠 - Taiwan seafood factory,https://www.youtube.com/watch?v=wS_X7Q_6LYc
 虱目魚切割 (阿堂鹹粥) - Taiwan street food,https://www.youtube.com/watch?v=fhC1UslxS5g
-三星蔥肉包, 高麗菜包 - Taiwan Street Food,https://www.youtube.com/watch?v=XUocLRzy0WU
-Traditional 9-Layer Cake, Turtle-Shaped Rice Cake, Double Flavors Mochi - Taiwanese Food,https://www.youtube.com/watch?v=bCe9zpFhMiU
-冰心維也納麵包 - Taiwanese Food,https://www.youtube.com/watch?v=rFTUIUkOe1Q
-桶仔雞, 烤芋頭, 鹽燒吳郭魚,https://www.youtube.com/watch?v=rBH4Dht-ZX0
+三星蔥肉包  高麗菜包 - Taiwan Street Food,https://www.youtube.com/watch?v=XUocLRzy0WU
+Traditional 9-Layer Cake  Turtle-Shaped Rice Cake  Double Flavors Mochi - Taiwanese Food,https://www.youtube.com/watch?v=bCe9zpFhMiU
+冰心維也納麵包  Taiwanese Food,https://www.youtube.com/watch?v=rFTUIUkOe1Q
+桶仔雞  烤芋頭  鹽燒吳郭魚,https://www.youtube.com/watch?v=rBH4Dht-ZX0
 山東羊角饅頭 - Taiwanese Food,https://www.youtube.com/watch?v=qC-luqPd4T4
 自動化米銅鑼燒工廠 - Taiwanese Food Factory,https://www.youtube.com/watch?v=mTQpdsj6dh4
-老麵雜糧堅果饅頭, 芋頭捲 - Taiwanese Food,https://www.youtube.com/watch?v=D4CQQDmv-7I
-韓式炸雞, 雞肉加工廠 - Food Factory,https://www.youtube.com/watch?v=0k0hCuoi4Vc
-卡斯特拉蛋糕, 熔岩巧克力蛋糕 - Taiwanese Food,https://www.youtube.com/watch?v=ze3RncyqOyM
+老麵雜糧堅果饅頭  芋頭捲 - Taiwanese Food,https://www.youtube.com/watch?v=D4CQQDmv-7I
+韓式炸雞  雞肉加工廠 - Food Factory,https://www.youtube.com/watch?v=0k0hCuoi4Vc
+卡斯特拉蛋糕  熔岩巧克力蛋糕 - Taiwanese Food,https://www.youtube.com/watch?v=ze3RncyqOyM
 內惟市場美食大合集,https://www.youtube.com/watch?v=CG8y-YRUdd4
-芋粿巧, 港式蘿蔔糕, 芋頭糕製作 - Taiwanese Food,https://www.youtube.com/watch?v=9sdSIbo8Wxk
+芋粿巧  港式蘿蔔糕  芋頭糕製作 - Taiwanese Food,https://www.youtube.com/watch?v=9sdSIbo8Wxk
 用麥芽製作各種傳統麥芽糖-Taiwanese food,https://www.youtube.com/watch?v=2VjXrmyDcVo
 福州麵線藥燉排骨 - Taiwanese food,https://www.youtube.com/watch?v=eYnlo5XtIVc
 珍珠奶茶泡芙 - Taiwanese street food,https://www.youtube.com/watch?v=DwsUMYXgHbo
 冬瓜肉餅喜餅製作 - Taiwanese food,https://www.youtube.com/watch?v=ei8DRTpUv1g
-炸彈麵包, 雞蛋鮮奶吐司製作 - Taiwanese Food,https://www.youtube.com/watch?v=hUug-gBISbY
-豆腐乳, 豆乳雞製作 - Taiwanese food,https://www.youtube.com/watch?v=zqjwg3AMwsM
+炸彈麵包  雞蛋鮮奶吐司製作 - Taiwanese Food,https://www.youtube.com/watch?v=hUug-gBISbY
+豆腐乳  豆乳雞製作 - Taiwanese food,https://www.youtube.com/watch?v=zqjwg3AMwsM
 奶油酥餅量產 - Taiwanese Food,https://www.youtube.com/watch?v=ZuOPQYvEwyc
-烏魚子製作, 烏魚料理 - Taiwanese Food,https://www.youtube.com/watch?v=pBqDu0sFTfw
-冬瓜露, 冬瓜茶製作 - Taiwanese food,https://www.youtube.com/watch?v=6LvWPWDPv9k
+烏魚子製作  烏魚料理  Taiwanese Food,https://www.youtube.com/watch?v=pBqDu0sFTfw
+冬瓜露  冬瓜茶製作 - Taiwanese food,https://www.youtube.com/watch?v=6LvWPWDPv9k
 台南米粿 - Taiwan Street Food,https://www.youtube.com/watch?v=2PCnyIevUUs
-蓮藕採收, 堅果藕粉 - Taiwanese Food,https://www.youtube.com/watch?v=3GaJqqoKgWM
-草莓大福, 紅豆麻糬量產 - Taiwanese Food Factory,https://www.youtube.com/watch?v=-CENQsP9H7M
+蓮藕採收  堅果藕粉 - Taiwanese Food,https://www.youtube.com/watch?v=3GaJqqoKgWM
+草莓大福  紅豆麻糬量產 - Taiwanese Food Factory,https://www.youtube.com/watch?v=-CENQsP9H7M
 古早味鮪魚飯湯 - Taiwanese street food,https://www.youtube.com/watch?v=fmGryWafzcc
-鮭魚加工, 鮭魚丼飯 - Taiwanese food factory,https://www.youtube.com/watch?v=aCJ3RfasmC4
-蒲燒鰻魚量產, 鰻魚蓋飯 - Taiwanese food factory,https://www.youtube.com/watch?v=7gRGeTErwAA
+鮭魚加工  鮭魚丼飯 - Taiwanese food factory,https://www.youtube.com/watch?v=aCJ3RfasmC4
+蒲燒鰻魚量產  鰻魚蓋飯 - Taiwanese food factory,https://www.youtube.com/watch?v=7gRGeTErwAA
 Various Taiwanese Best Dessert Top 5 2022 - Taiwanese street food,https://www.youtube.com/watch?v=_op4B7-Hhdo
 港式冰火菠蘿油製作 - Taiwan street food,https://www.youtube.com/watch?v=3EFUtwjEy1A
-烤鱷魚, 烤全豬, 巨大香腸 - Taiwanese food,https://www.youtube.com/watch?v=o8Tg-inrn5g
+烤鱷魚  烤全豬  巨大香腸 - Taiwanese food,https://www.youtube.com/watch?v=o8Tg-inrn5g
 法式巧克力龍鬚糖 - Taiwanese candy store,https://www.youtube.com/watch?v=HzcNtI8Fl5E
-黑豆醬油釀造, 古早味焢肉 - Taiwanese Food,https://www.youtube.com/watch?v=xvImCCKUJ68
-潤餅皮, 滷肉炒麵春捲 - Taiwanese Food,https://www.youtube.com/watch?v=8DrGILPmlLE
+黑豆醬油釀造  古早味焢肉 - Taiwanese Food,https://www.youtube.com/watch?v=xvImCCKUJ68
+潤餅皮  x滷肉炒麵春捲 - Taiwanese Food,https://www.youtube.com/watch?v=8DrGILPmlLE
 古早味手工蜜麻花 - Taiwanese Food,https://www.youtube.com/watch?v=l5aw3Gm6Ces
 Various Handmade Noodles Making Skills in Taiwan 2022 - Taiwan Street Food,https://www.youtube.com/watch?v=23qAv8xdPbo
 美式德州燒烤 - Taiwan street food,https://www.youtube.com/watch?v=gIrnDZMuORI
 柴燒年糕製作 - Taiwanese Food,https://www.youtube.com/watch?v=L9_N7oEkwZc
-鹹蛋黃製作, 鹹蛋黃釀五花肉 - Taiwanese food,https://www.youtube.com/watch?v=iqANut1Zg7k
-巨大手打牛肉堡, 漢堡排 - Taiwan street food,https://www.youtube.com/watch?v=ePYnbQ3ixpU
-巨大龍膽石斑切割, 龍膽石斑料理 - Taiwanese Food,https://www.youtube.com/watch?v=vDy3VYR_F5c
+鹹蛋黃製作  鹹蛋黃釀五花肉 - Taiwanese food,https://www.youtube.com/watch?v=iqANut1Zg7k
+巨大手打牛肉堡  漢堡排 - Taiwan street food,https://www.youtube.com/watch?v=ePYnbQ3ixpU
+巨大龍膽石斑切割  龍膽石斑料理 - Taiwanese Food,https://www.youtube.com/watch?v=vDy3VYR_F5c
 芋頭酥大量製作 - Taiwanese Food,https://www.youtube.com/watch?v=9y_D3OI6uPM
-手工生吐司, 法國吐司製作 - Taiwanese Food,https://www.youtube.com/watch?v=qe3MJHGGNCk
+手工生吐司  法國吐司製作 - Taiwanese Food,https://www.youtube.com/watch?v=qe3MJHGGNCk
 古早味爌肉飯 - Taiwan Street Food,https://www.youtube.com/watch?v=sU736jFp9eY
-炭火烤鴨, 鹽酥鴨製作  - Taiwanese Food,https://www.youtube.com/watch?v=I0DnD4Hf_4Y
+炭火烤鴨  鹽酥鴨製作  - Taiwanese Food,https://www.youtube.com/watch?v=I0DnD4Hf_4Y
 手扒雞製作 - Taiwanese Food,https://www.youtube.com/watch?v=QM03fR-uAWk
 超酥脆可頌麵包製作 - Taiwanese Food,https://www.youtube.com/watch?v=TzQAW33i9zw
 麵輪量產工廠 - Food Factory,https://www.youtube.com/watch?v=5nvY_b_c7Zk
-鯖魚加工, 一夜干定食 - Food Factory,https://www.youtube.com/watch?v=0VZ5q9KMeNc
+鯖魚加工  一夜干定食 - Food Factory,https://www.youtube.com/watch?v=0VZ5q9KMeNc
 巴斯克蛋糕製作 - Taiwanese Food,https://www.youtube.com/watch?v=FTqeHxUSyYQ
-蜜蜂採收, 蜂蜜工廠 - Food Factory,https://www.youtube.com/watch?v=VUSMDNiZUPQ
+蜜蜂採收  蜂蜜工廠 - Food Factory,https://www.youtube.com/watch?v=VUSMDNiZUPQ
 古早味麻花捲量產 - Taiwanese Food,https://www.youtube.com/watch?v=-lb1hyaCQaI
-旗魚丸, 關東煮製作 - Taiwanese Food Factory,https://www.youtube.com/watch?v=gtiy7z4hgJc
-黑糖加工, 黑糖珍珠鮮奶 - Taiwanese Food,https://www.youtube.com/watch?v=3fxu-8YOPKE
+旗魚丸  關東煮製作 - Taiwanese Food Factory,https://www.youtube.com/watch?v=gtiy7z4hgJc
+黑糖加工  黑糖珍珠鮮奶 - Taiwanese Food,https://www.youtube.com/watch?v=3fxu-8YOPKE
 祖傳冰糖醬鴨製作 - Taiwan Street Food,https://www.youtube.com/watch?v=v9SzMtez0lg
-黃鰭鮪魚切割秀, 世紀婚宴流水席   內門阿隆師,https://www.youtube.com/watch?v=Xr38u0I9U4c
+黃鰭鮪魚切割秀  世紀婚宴流水席   內門阿隆師,https://www.youtube.com/watch?v=Xr38u0I9U4c
 古早味綠豆椪製作 - Taiwanese Food,https://www.youtube.com/watch?v=Y7MA0Ng9wdU
-鳳梨, 鳳梨釋迦切割工廠 - Food Factory,https://www.youtube.com/watch?v=pGNEZe2jnzk
+鳳梨  鳳梨釋迦切割工廠 - Food Factory,https://www.youtube.com/watch?v=pGNEZe2jnzk
 越南脆皮烤豬夾心麵包 - Taiwan street food,https://www.youtube.com/watch?v=L8Gx00Iofys
-牡蠣採收, 蚵捲, 蚵仔煎  - Taiwanese Food,https://www.youtube.com/watch?v=WIxT9I4BNtA
-5分鐘切割巨大黑鮪魚, 金三角拼盤, 蜂巢黑鮪魚 [ASMR],https://www.youtube.com/watch?v=eKklAEdP6lk
+牡蠣採收  蚵捲  蚵仔煎  - Taiwanese Food,https://www.youtube.com/watch?v=WIxT9I4BNtA
+5分鐘切割巨大黑鮪魚  金三角拼盤  蜂巢黑鮪魚 [ASMR],https://www.youtube.com/watch?v=eKklAEdP6lk
 Boom! Lobster Prawn Cracker Making! - Taiwanese Food,https://www.youtube.com/watch?v=yxcPPd8LwY4
-愛文芒果採收, 芒果飲品 - Taiwanese Food,https://www.youtube.com/watch?v=-_HdzBYankI
-大比目魚加工, 蒜香比目魚 - Food Factory,https://www.youtube.com/watch?v=m5b7aeWJoeQ
+愛文芒果採收  芒果飲品 - Taiwanese Food,https://www.youtube.com/watch?v=-_HdzBYankI
+大比目魚加工  蒜香比目魚 - Food Factory,https://www.youtube.com/watch?v=m5b7aeWJoeQ
 即時麻油雞腿粽量產工廠 - Food Factory,https://www.youtube.com/watch?v=eQ2II5e7MUg
-純花生醬, 花生油製作 - Taiwanese Food,https://www.youtube.com/watch?v=BqhXV7RDuA0
+純花生醬  花生油製作 - Taiwanese Food,https://www.youtube.com/watch?v=BqhXV7RDuA0
 如何一人切割580磅巨大黑鮪魚？-Taiwanese food,https://www.youtube.com/watch?v=FVMDlmctUsw
 勁辣雞肉熱狗 - Food Factory,https://www.youtube.com/watch?v=eWHwpFAZdjk
 黑鮪魚切割秀 - Taiwanese Food,https://www.youtube.com/watch?v=lHVdXfhb4LQ
@@ -720,97 +714,57 @@ Boom! Lobster Prawn Cracker Making! - Taiwanese Food,https://www.youtube.com/wat
 台灣最大麵筋泡量產工廠 - Food Factory,https://www.youtube.com/watch?v=2RKWZ2vvmcQ
 Brown Sugar Bun Cake & Postpartum Cake - Taiwanese food,https://www.youtube.com/watch?v=BPmhZFtWJoQ
 素食蔬脆棒棒腿 - Taiwanese Food,https://www.youtube.com/watch?v=PcfkOJjKOwg
-水餃, 冰花煎餃 - Food Factory,https://www.youtube.com/watch?v=PhJDHIaabPE
-鮭魚加工廠, 鮭魚料理 - Taiwanese Food Factory,https://www.youtube.com/watch?v=NRYZT0sT9os
-有機銀耳採收, 銀耳羹量產 - Taiwan Food,https://www.youtube.com/watch?v=161Tn7V-H94
+水餃  冰花煎餃 - Food Factory,https://www.youtube.com/watch?v=PhJDHIaabPE
+鮭魚加工廠  鮭魚料理 - Taiwanese Food Factory,https://www.youtube.com/watch?v=NRYZT0sT9os
+有機銀耳採收  銀耳羹量產 - Taiwan Food,https://www.youtube.com/watch?v=161Tn7V-H94
 台灣藍鵲糖雕工藝 - Taiwan Sugar Sculptor,https://www.youtube.com/watch?v=229Tdlt-z7o
 金華火腿製作 - Taiwanese Food,https://www.youtube.com/watch?v=feCcqBT0-5Y
 法式冰淇淋 - Taiwanese Food,https://www.youtube.com/watch?v=NTgKFvy1K4U
 砍竹子製作竹筒飯套餐 - Taiwanese Food,https://www.youtube.com/watch?v=Ex5Tlu10rt0
-虱目魚切割, 紅燒虱目魚肚, 魚皮湯 - Food Factory,https://www.youtube.com/watch?v=t-wWYiMVnRQ
+虱目魚切割  紅燒虱目魚肚  魚皮湯 - Food Factory,https://www.youtube.com/watch?v=t-wWYiMVnRQ
 麥芽糖日本冰 - Taiwanese Food,https://www.youtube.com/watch?v=N9Bg3EmtvzA
 波羅蜜切割 - Taiwanese Food,https://www.youtube.com/watch?v=zM9f4hIsIvA
 冬瓜茶磚量產工廠 - Taiwanese Food,https://www.youtube.com/watch?v=rAUrltBk-ac
-3,000人份的學校營養午餐製作 - Taiwanese Food,https://www.youtube.com/watch?v=SpMRVYbUz_c
-椰子切割, 椰子蛋, 椰子凍 - Taiwanese Food,https://www.youtube.com/watch?v=AMHJK8dCvro
-美洲大赤魷加工, 龍蝦風味沙拉製作 - Seafood Factory,https://www.youtube.com/watch?v=oOgV4DbcWa8
+3 000人份的學校營養午餐製作 - Taiwanese Food,https://www.youtube.com/watch?v=SpMRVYbUz_c
+椰子切割  椰子蛋  椰子凍 - Taiwanese Food,https://www.youtube.com/watch?v=AMHJK8dCvro
+美洲大赤魷加工  龍蝦風味沙拉製作 - Seafood Factory,https://www.youtube.com/watch?v=oOgV4DbcWa8
 爆漿餐包製作 - Taiwanese Food,https://www.youtube.com/watch?v=P_wngX-rGnk
-豬血糕量產, 三杯米血 - Food Factory,https://www.youtube.com/watch?v=fiV-39V7oGE
+豬血糕量產  三杯米血 - Food Factory,https://www.youtube.com/watch?v=fiV-39V7oGE
 Satisfying! Best Bread Making Skills Collection in Taiwan 2023,https://www.youtube.com/watch?v=Ban-fClqaFU
-茂谷柑吐司, 紫心地瓜吐司 - Taiwanese Food,https://www.youtube.com/watch?v=WE6MdLv-TgU
-金目鱸魚, 泰式檸檬魚 - Food Factory,https://www.youtube.com/watch?v=LeOlJsErFd4
+茂谷柑吐司  紫心地瓜吐司 - Taiwanese Food,https://www.youtube.com/watch?v=WE6MdLv-TgU
+金目鱸魚  泰式檸檬魚 - Food Factory,https://www.youtube.com/watch?v=LeOlJsErFd4
 巨無霸法國麵包製作 - Taiwanese Baker,https://www.youtube.com/watch?v=nae4RQYHksg
-鮭魚菲力, 奶油鮭魚炊飯 - Food Factory,https://www.youtube.com/watch?v=g-qRtT_C2HM
+鮭魚菲力  奶油鮭魚炊飯 - Food Factory,https://www.youtube.com/watch?v=g-qRtT_C2HM
 武聖夜市合集 2023,https://www.youtube.com/watch?v=kbF3sFusumc
 大師級刀工！精湛的切魚技巧合集 Top 7！,https://www.youtube.com/watch?v=IV0L_y5PK1I
 鮪魚罐頭量產工廠 - Taiwan Seafood Factory,https://www.youtube.com/watch?v=lkoAjvJqFPA
 龍膽石斑加工廠 - Taiwan Seafood Factory,https://www.youtube.com/watch?v=2sbES1RU5Ls
 Taiwanese Street Food Ningxia Night Market 2023,https://www.youtube.com/watch?v=aztcIevvdw8
 一鴨八吃! 高級北京烤鴨餐廳 - Taiwanese Food,https://www.youtube.com/watch?v=64leeI6GMA8
-巨大炸豬皮, 脆皮燒肉, 梅花秘醬潛艇堡,https://www.youtube.com/watch?v=BhDwFwGaJc0
-剝皮辣椒加工廠, 剝皮辣椒無菜單料理 - Taiwanese Food,https://www.youtube.com/watch?v=qAdngcD7bEc
-古早味麻糬, 冰淇淋大福製作 - Taiwan Mochi Factory,https://www.youtube.com/watch?v=IpdJ59UK1iw
-蝦捲, 古早味三絲卷 - Taiwan Food Factory,https://www.youtube.com/watch?v=clB5Zhooe-Q
+巨大炸豬皮  脆皮燒肉  梅花秘醬潛艇堡,https://www.youtube.com/watch?v=BhDwFwGaJc0
+剝皮辣椒加工廠  剝皮辣椒無菜單料理 - Taiwanese Food,https://www.youtube.com/watch?v=qAdngcD7bEc
+古早味麻糬  冰淇淋大福製作 - Taiwan Mochi Factory,https://www.youtube.com/watch?v=IpdJ59UK1iw
+蝦捲  古早味三絲卷 - Taiwan Food Factory,https://www.youtube.com/watch?v=clB5Zhooe-Q
 菜脯量產工廠 -Food Factory,https://www.youtube.com/watch?v=aRlrXWkwAOE
 豬肉漢堡排製作 - Taiwan Food Factory,https://www.youtube.com/watch?v=nXgviMMOYzM
-自動化洗選蛋工廠, 液體蛋加工 - Food Factory,https://www.youtube.com/watch?v=odM4aRkxT38
+自動化洗選蛋工廠  液體蛋加工 - Food Factory,https://www.youtube.com/watch?v=odM4aRkxT38
 黑早大菇 - Taiwan Food Factory,https://www.youtube.com/watch?v=u4OlTYG8y3o
 飛魚卵海鮮卷 - Taiwan Food Factory,https://www.youtube.com/watch?v=EIhlAsRmcDQ
-巨大鰻魚切割, 鰻魚料理 - Taiwanese Food,https://www.youtube.com/watch?v=bxdwD90LTQs
-豆腐, 豆乾, 豆漿 - Taiwan Street Food,https://www.youtube.com/watch?v=wRAtmetrs1Q
+巨大鰻魚切割  鰻魚料理 - Taiwanese Food,https://www.youtube.com/watch?v=bxdwD90LTQs
+豆腐  豆乾  豆漿 - Taiwan Street Food,https://www.youtube.com/watch?v=wRAtmetrs1Q
 5種超美味台灣蛋餅 - Taiwan Street Food,https://www.youtube.com/watch?v=eOxtuDpRxjM
 6間台灣老派特色美食,https://www.youtube.com/watch?v=A-8W58GAek8
-古法稻殼燻羊肉, 羊肉爐 - Taiwanese Food,https://www.youtube.com/watch?v=wsCb249ywXM
+古法稻殼燻羊肉  羊肉爐 - Taiwanese Food,https://www.youtube.com/watch?v=wsCb249ywXM
 紅燒牛肉麵量產工廠 - Taiwanese Food,https://www.youtube.com/watch?v=S7iKRqZtjQg
 台灣最強切魚大師,https://www.youtube.com/watch?v=3AcrK0jSnS8
-柴燒蘿蔔糕, 肉燥菜頭粿 - Taiwan street food,https://www.youtube.com/watch?v=5kamw5s_8hI
-黑鮪魚切割技巧, 金三角生魚片,https://www.youtube.com/watch?v=x2k86sEGuXQ
-頂級金三角拼盤, 黑鮪魚創意料理,https://www.youtube.com/watch?v=hPIOWZ2Ue3M
-高崎火腿, 桃木燻雞胸加工,https://www.youtube.com/watch?v=oP-UvAsrWK0
+柴燒蘿蔔糕  肉燥菜頭粿 - Taiwan street food,https://www.youtube.com/watch?v=5kamw5s_8hI
+黑鮪魚切割技巧  金三角生魚片,https://www.youtube.com/watch?v=x2k86sEGuXQ
+頂級金三角拼盤  黑鮪魚創意料理,https://www.youtube.com/watch?v=hPIOWZ2Ue3M
+高崎火腿  桃木燻雞胸加工,https://www.youtube.com/watch?v=oP-UvAsrWK0
 瑞豐夜市美食大合集,https://www.youtube.com/watch?v=07NBNtvNa3I
-稻米採收, 上海菜飯製作 - Taiwanese Food,https://www.youtube.com/watch?v=-cw2hyka44A
-
+稻米採收  上海菜飯製作 - Taiwanese Food,https://www.youtube.com/watch?v=-cw2hyka44A
 台灣食物02,#genre#
 甜美又健康！用大爐灶和柴火製作的自製麥芽糖和麥芽糖北京烤鴨。,https://www.youtube.com/watch?v=-mGmzrJ-5aQ
-巨型多汁蜜瓜麵包製作大師 #Shorts,https://www.youtube.com/shorts/x6_Botq3h10
-炸油條三明治 - 台灣街頭小吃,https://www.youtube.com/shorts/ToIaTsGZ3i8
-大師級技藝！中式蛋餡煎餅 - 台灣街頭小吃 #shorts,https://www.youtube.com/shorts/tjdQ1PI3Y04
-迷你檸檬蛋糕量產 - 台灣街頭小吃,https://www.youtube.com/shorts/CeHkXFrINQk
-年糕肉湯製作 - 台灣街頭小吃,https://www.youtube.com/shorts/u31AA_hpKcY
-台灣夜市最棒的鐵板雞排牛排鐵板燒！,https://www.youtube.com/shorts/fx17VekViIo
-熱門炸油條甜甜圈 - 台灣街頭小吃,https://www.youtube.com/shorts/ozkgr-7Izts
-芋頭波士頓奶油派和起司蛋糕製作！ （台灣風味）,https://www.youtube.com/shorts/Hv3iSCkJY24
-爆漿！酥脆的膨化米餅製作大師！ - 台灣街頭小吃,https://www.youtube.com/shorts/UN6Q53r6FSY
-大東夜市製作鳳梨水果茶 - 台灣街頭小吃,https://www.youtube.com/shorts/kRUlQiV3EzQ
-麻糬刨冰和煮麻糬 - 台灣街頭小吃,https://www.youtube.com/shorts/55kRVUFvt44
-台灣夜市的地瓜球,https://www.youtube.com/shorts/UZfw8EKMcYk
-煎蛋捲飯 - 台灣街頭小吃,https://www.youtube.com/shorts/SmI-uM0WXUM
-大東夜市的炸鵪鶉蛋 - 台灣街頭小吃,https://www.youtube.com/shorts/jYlvF2e0q_w
-年輪蛋糕製作 - 台灣食品工廠,https://www.youtube.com/shorts/VX9lWuthafQ
-特色台灣蔥油餅 - 台灣街頭小吃,https://www.youtube.com/shorts/vefV7AWCSp0
-日產2萬個！春捲皮、滷肉春捲 - 台灣街頭小吃,https://www.youtube.com/shorts/QW0iPMdj2hw
-用神奇藥材製作傳統年糕 - 台灣美食,https://www.youtube.com/shorts/fdKLV6S7BS0
-巨型軟麵團！煎包製作 - 台灣街頭小吃,https://www.youtube.com/shorts/vcGzlrB1paw
-巨型蔥油餅製作！ - 台灣街頭小吃,https://www.youtube.com/shorts/qHrqa8lB6pk
-香辣酥脆！辣椒冰淇淋、炸辣椒小吃量產 - 台灣美食,https://www.youtube.com/shorts/DS7b_OZOQig
-烏魚子是如何製作的？ - 台灣美食,https://www.youtube.com/shorts/Tmz3YmLVKkM
-大東夜市蒙古烤肉 - 台灣街頭美食,https://www.youtube.com/shorts/J_KPxvmwCuU
-日產15噸！墨魚丸量產流程 - 台灣食品工廠,https://www.youtube.com/shorts/3JP3di8u1M4
-台灣最大的千層蛋糕食品工廠 - 台灣美食,https://www.youtube.com/shorts/K3PaWdR5UV0
-藝術作品！令人驚嘆的法式馬卡龍量產 - 台灣美食,https://www.youtube.com/shorts/IsBHWI5Q0H0
-鍋貼造型饅頭製作 - 台灣街頭美食,https://www.youtube.com/shorts/Exa6LtIeUiM
-傳統芋頭糕製作技巧 - 台灣美食,https://www.youtube.com/shorts/CYMq5pBpN_Y
-傳統米粉製作技巧 - 台灣美食,https://www.youtube.com/shorts/0YkN21ARWY4
-令人驚嘆的魚餅量產流程 - 食品工廠,https://www.youtube.com/shorts/FPBu9gI9FgA
-自動米飯銅鑼燒加工廠 - 台灣食品工廠,https://www.youtube.com/shorts/tIza_t_xUJU
-瑪格麗特甜甜圈奶油派 - 台灣美食,https://www.youtube.com/shorts/ovfBEz34iuU
-啤酒是如何釀造的？ - 台灣啤酒廠,https://www.youtube.com/shorts/b2JuKFGoZTo
-蒸包量產 - 台灣街頭美食,https://www.youtube.com/shorts/eVVn07A1zxE
-雜糧饅頭製作 - 台灣美食,https://www.youtube.com/shorts/azOBgjUq2p4
-炸全雞製作！ - 台灣美食,https://www.youtube.com/shorts/xFwDIGD9Gt4
-巨型香蕉蛋糕製作 - 台灣美食,https://www.youtube.com/shorts/dyhLewhbm2w
-大東夜市炸蠔煎 - 台灣街頭美食,https://www.youtube.com/shorts/_LTT37gxnNU
-春捲冰淇淋 - 台灣街頭美食,https://www.youtube.com/shorts/QPndQ2LUdkI
 2021年大東夜市台灣街頭美食,https://www.youtube.com/watch?v=-qz1u-a6cmA
 2021年花園夜市十大熱門街頭美食 - 台灣街頭美食,https://www.youtube.com/watch?v=LQUvw_4mo3Q
 2022年羅東夜市台灣街頭美食大合集,https://www.youtube.com/watch?v=1K9zTOMx_Mc
@@ -1007,7 +961,7 @@ Top 10! Best Taiwanese Street Food of the Year 2021!,https://www.youtube.com/wat
 蔥花大餅牛肉餡餅咖哩餡餅,https://www.youtube.com/watch?v=iFYOAHFCbnw
 古早味芋丸粉粿冰製作,https://www.youtube.com/watch?v=PZRbeq3Uwbs
 柴燒烤全豬原住民風味餐,https://www.youtube.com/watch?v=W5MOF7D35Fw
-潤餅皮春捲,https://www.youtube.com/watch?v=s60tuHS5SQU
+潤餅皮x春捲,https://www.youtube.com/watch?v=s60tuHS5SQU
 手工義式冰淇淋冰淇淋雞蛋仔,https://www.youtube.com/watch?v=UjrqMjXW1JI
 長島冰啤酒在啤酒廠的生產過程,https://www.youtube.com/watch?v=nurSu96FRLo
 古早味白糖蔥製作,https://www.youtube.com/watch?v=53H0-WXQ9jg
@@ -1064,7 +1018,6 @@ Taiwanese Street Food Ningxia Night Market 2023,https://www.youtube.com/watch?v=
 黑鮪魚切割技巧金三角生魚片,https://www.youtube.com/watch?v=x2k86sEGuXQ
 瑞豐夜市美食大合集,https://www.youtube.com/watch?v=07NBNtvNa3I
 稻米採收上海菜飯製作,https://www.youtube.com/watch?v=-cw2hyka44A
-
 油畫教室01,#genre#
 畫森林 畫美麗的風景 學習畫風景,https://www.youtube.com/watch?v=qyvdYnTtBfE
 如何畫湖邊的房子 日落風景 漂亮的壓克力畫 A Lu Art,https://www.youtube.com/watch?v=njsVrtPqo6M
@@ -1223,7 +1176,6 @@ Taiwanese Street Food Ningxia Night Market 2023,https://www.youtube.com/watch?v=
 如何繪製森林中閃耀的陽光 完整影片 - 即時 A Lu Art。,https://www.youtube.com/watch?v=zKrWE1tPVVE
 如何繪製風景畫“#54”/ 繪製寧靜的鄉村風景 壓克力畫,https://www.youtube.com/watch?v=3srhMQkOLzM
 如何繪製風景畫「#55」/ 繪製森林場景 壓克力畫 A Lu Art,https://www.youtube.com/watch?v=4VgJ9pdDFVs
-
 油畫教室02,#genre#
 如何用壓克力顏料繪製絕美風景縮時攝影 第20集,https://www.youtube.com/watch?v=VLL44WNCo_Q
 如何繪製美麗的河畔縮時攝影 第19集,https://www.youtube.com/watch?v=V-ukjrhoEtM
@@ -1371,7 +1323,6 @@ Maha Piritha Thun Suthraya,https://www.youtube.com/watch?v=2PkbYtGIDFk
 用壓克力畫一隻可愛的兔子 縮時攝影 82,https://www.youtube.com/watch?v=cjIoD0BxAc4
 如何用壓克力畫一隻鳥,https://www.youtube.com/watch?v=TqBfRwu_b3A
 初學者流暢地混合油彩 縮時攝影,https://www.youtube.com/watch?v=1cs8k4we-qw
-
 中國旅遊景點01,#genre#
 雪中漫步中国张家界国家森林公园。仙境张家界冬日里的童话世界 4K,https://www.youtube.com/watch?v=Qn5GUUixNcU
 被誉为世界上最难修建的大桥之一湖南耗资14亿在德夯大峡谷之上建的悬索桥----矮寨大桥 CHINA 4K,https://www.youtube.com/watch?v=daKcKDIHIfM
@@ -2007,7 +1958,6 @@ University of Shanghai for Science and Technology Herman C  E  Liu Memories Libr
 衡山旅游攻略详细路线干货三维地图拆解,https://www.youtube.com/watch?v=Isp5Kbw8Uy8
 浙江舟山普陀山详细路线图普陀山旅游攻略普陀山徒步路线,https://www.youtube.com/watch?v=N0lNTYMAk3w
 安徽九华山旅游攻略详细路线讲解妙有分二气、灵山开九华,https://www.youtube.com/watch?v=ERo8B6NpLPk
-
 中國城市-三維講解01,#genre#
 哈尔滨旅游攻略详细路线干货三维地图拆解,https://www.youtube.com/watch?v=BWaN5a7P-N0
 长春旅游攻略三维地图拆解云游北国春城,https://www.youtube.com/watch?v=BALdoKkEZyw
@@ -2045,4 +1995,3 @@ University of Shanghai for Science and Technology Herman C  E  Liu Memories Libr
 4k60p中國黃山 雲海奇觀世界自然遺產  世界地質公園中華十大名山天下第一奇山黃山位於安徽省南有72峰主峰蓮花峰海拔1864米與光明頂、天都峰並稱三大峯。,https://www.youtube.com/watch?v=3w6AqusOyo8
 4k台灣台南鹽水鋒炮4k Tainan Salt Water Bee Cannon4 k台南塩水蜂大砲4k,https://www.youtube.com/watch?v=WVilPHRhQ3U
 茶道 中國風古箏免費音樂Tea ceremony Guzheng free music茶道古正無料音楽。  z,https://www.youtube.com/watch?v=X4VxyVdDUYE
-
