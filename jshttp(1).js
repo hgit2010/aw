@@ -3,8 +3,9 @@
 "logo":"./謝分享.gif",
 "lives":[
 {"name":"立視LiTV🇹🇼","type":3,"api":"./py/live_litv.py","ext":{},"epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"立視 4gtv(分類)🇹🇼","type":0,"url":"http://xg.52sw.top/iptv/litv.php","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
+//{"name":"立視 4gtv(分類)🇹🇼","type":0,"url":"http://xg.52sw.top/iptv/litv.php","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
 {"name":"四季線上4gtv🇹🇼","url":"./tvbus/4gtv直播源.txt","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"4gTV備用🇹🇼","type": 3,"api": "./py/台湾4g备用.py","ext": {},"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"只有CCTV3🇨🇳","url":"./tvbus/liveCCTV3.txt","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"SMT直播🇹🇼🇨🇳","type":3,"api":"./py/SMT.py","ext":{},"ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"大陸1️⃣🇨🇳","url":"https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/user_result.m3u","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
