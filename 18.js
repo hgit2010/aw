@@ -17,6 +17,7 @@
 ],
 "sites":[
 {"key":"MissAV","name":"🔥MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1,"style":{"type":"rect","ratio":1.4},"jar":"./jar/fm-miss.jar"},
+{"key":"py_007吃瓜","name":"007吃瓜","type":3,"api":"./py/007吃瓜.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key": "py_rou","name": "(T4)肉視頻","type": 4,"api": "https://py.doube.eu.org/v2/spider?site=96c1ddea0f3b27f1955ed512f0e7a9d7","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
 {"key": "py_BadNews","name": "(T4)BadNews","type": 4,"api": "https://py.doube.eu.org/spider?site=BadNews","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"style": {  "type": "rect",  "ratio": 1.5}},
 {"key": "py_Miss","name": "(T4)MissAV","type": 4,"api": "https://py.doube.eu.org/spider?site=Miss","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},

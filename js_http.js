@@ -59,7 +59,6 @@
 {"key":"lf_search","name":"🔎lf_搜索影片3","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_search3_min.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"./lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 {"key":"YGP","name":"🚀預告片","type":3,"api":"csp_YGPGuard","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"py_007吃瓜","name":"007吃瓜","type":3,"api":"./py/007吃瓜.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"alllive","name":"📽️遊戲直播","type":3,"api":"csp_AllliveGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"優質网","name":"🈚🔥優質zyk","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"changeable":1},
 {"key":"魔都XML","name":"🈚🔥魔都XML","type":0,"api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
