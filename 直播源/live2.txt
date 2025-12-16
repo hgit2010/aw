@@ -16,6 +16,82 @@ International,http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451481
 Japan HDV,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6225/index.m3u8
 Japan HDV2,http://645hsfs.akadatel.com/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
 奧視2台(125),http://125.227.210.55:8203/VideoInput/play.ts
+國際,#genre#
+//https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u
+Babes,http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+Reality Kings,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+Play boy,#genre# 
+花花公子,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+花花公子-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6260/index.m3u8
+花花公子-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6260/manifest.m3u8
+花花公子a-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/12135/index.m3u8
+花花公子a-7,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6280/index.m3u8
+花花公子a-8,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6280/manifest.m3u8
+花花公子c-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6242/index.m3u8
+花花公子c-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6242/manifest.m3u8
+花花公子d-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/527/index.m3u8
+法國時尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+nuart,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/31716/index.m3u8
+Public Agent,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6246/index.m3u8
+Playboy,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
+Playboy Plus,http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6242/manifest.m3u8
+Playboy2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/527/index.m3u8
+Playboy LA,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6280/index.m3u8
+Playboy Plus,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6242/index.m3u8
+Playboy3,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/527/index.m3u8
+XXX : Playboy (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19484
+XXX : Playboy Europe (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414/19483
+Playboy4,https://hyf000.eu.org/iptv/16
+Playboy Plus2,https://hyf000.eu.org/iptv/102
+Playboy LA3,https://hyf000.eu.org/iptv/140
+XXX-Playboy TV HD (Z),http://tv.zapping.life:8080/huvargas01/latinplus6485/10085
+Playboy Plus3,http://lunar.pm:8080/Mrdon/4782314540/131339
+
+Hustler,#genre#
+Hustler HD-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/244/index.m3u8
+Hustler HD-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/9065/index.m3u8
+HUSTLER Blue-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/1064/index.m3u8
+HUSTLER Blue-899,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/1064/index.m3u8
+Hustler HD-911,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/244/index.m3u8
+Hustler HD-912,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/9065/index.m3u8
+Blue Hustler2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/1064/index.m3u8
+Hustler HD Europe2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/244/index.m3u8
+Hustler HD orig2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9065/index.m3u8
+XXX : Hustler HD (18 )2,http://epicboss.live:80/bjune@teksavvy.com/5193594414/19509
+XXX : Hustler TV (18 )2,http://epicboss.live:80/bjune@teksavvy.com/5193594414/19508
+Hustler HD orig2,https://hyf000.eu.org/iptv/4
+Hustler HD Europe3,https://hyf000.eu.org/iptv/5
+Blue2 Hustler,https://hyf000.eu.org/iptv/6
+
+Penthouse,#genre# 
+PENTHOUSE Gold-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5011/index.m3u8
+PENTHOUSE REALITY TV-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5012/index.m3u8
+PENTHOUSE REALITY TV-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5013/index.m3u8
+PENTHOUSE REALITY TV-1233,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5012/index.m3u8
+PENTHOUSE REALITY TV-1234,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5013/index.m3u8
+Penthouse Gold HD2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5011/index.m3u8
+Penthouse Passion HD2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/1073/index.m3u8
+Penthouse Quickies 1300k2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5012/index.m3u8
+Penthouse Quickies HD2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5013/index.m3u8
+XXX :  Penthouse Gold HD2,http://epicboss.live:80/bjune@teksavvy.com/5193594414/19495
+Penthouse Passion HD2,https://hyf000.eu.org/iptv/7
+Penthouse Gold HD2,https://hyf000.eu.org/iptv/8
+Penthouse Quickies HD2,https://hyf000.eu.org/iptv/9
+Penthouse Quickies 1300k2,https://hyf000.eu.org/iptv/18
+XXX-Adult Penthouse Black HD (Z)2,http://tv.zapping.life:8080/huvargas01/latinplus6485/10092
+XXX-Penthouse 1 (Z)(HD)2,http://tv.zapping.life:8080/huvargas01/latinplus6485/10109
+XXX-Penthouse Gold (Z)(HD)2,http://tv.zapping.life:8080/huvargas01/latinplus6485/10110
+Penthouse Gold2,http://lunar.pm:8080/Mrdon/4782314540/131338
+squirt-,http://live.mycamtv.com/squirt.m3u8
+ОХ-АХ HD-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/11068/index.m3u8
+ОХ-АХ HD-1868,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/11068/index.m3u8
 私密頻道 ADULT,#genre#
 Premium +18 - Asian Bondage (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150763
 Premium +18 - Asian Footjob (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150764
@@ -23,13 +99,6 @@ Premium +18 - AV 69 (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus648
 Premium +18 - AV Taxi (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150769
 Premium +18 - Caribbean.com (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150783
 DREAMROOM,http://lunar.pm:8080/Mrdon/4782314540/131308
-花花公子,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-法國時尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-nuart,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/31716/index.m3u8
-Public Agent,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6246/index.m3u8
-Playboy,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
-Playboy Plus,http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6242/manifest.m3u8
-Playboy,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/527/index.m3u8
 SexArt,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4ML799QKS2USNVRQ83BAVUQS/6253/index.m3u8
 MetArt FHD,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12160/index.m3u8
 Banana Fever,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12168/index.m3u8
@@ -1249,42 +1318,6 @@ Adult IPTV Brunette,http://sinalprivado.info:80/632035/GqGcFV4ntu/40016
 伦理片-F罩杯的奶水太棒了,https://play.phimgood.com/20250614/25644_caa00974/index.m3u8
 伦理片-娜塔莉的情人,https://vip.dytt-cine.com/20250603/27812_9729c946/index.m3u8
 伦理片-一路向西,https://vip.dytt-cine.com/20250528/26093_925cdef6/index.m3u8
-國際,#genre#
-//https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u
-Babes,http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-Reality Kings,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-Play boy,#genre# 
-花花公子-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6260/index.m3u8
-花花公子-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6260/manifest.m3u8
-花花公子a-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/12135/index.m3u8
-花花公子a-7,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6280/index.m3u8
-花花公子a-8,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6280/manifest.m3u8
-花花公子c-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6242/index.m3u8
-花花公子c-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6242/manifest.m3u8
-花花公子d-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/527/index.m3u8
-Hustler,#genre#
-Hustler HD-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/244/index.m3u8
-Hustler HD-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/9065/index.m3u8
-HUSTLER Blue-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/1064/index.m3u8
-HUSTLER Blue-899,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/1064/index.m3u8
-Hustler HD-911,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/244/index.m3u8
-Hustler HD-912,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/9065/index.m3u8
-Penthouse,#genre# 
-PENTHOUSE Gold-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5011/index.m3u8
-PENTHOUSE REALITY TV-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5012/index.m3u8
-PENTHOUSE REALITY TV-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5013/index.m3u8
-PENTHOUSE REALITY TV-1233,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5012/index.m3u8
-PENTHOUSE REALITY TV-1234,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5013/index.m3u8
-squirt-,http://live.mycamtv.com/squirt.m3u8
-ОХ-АХ HD-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/11068/index.m3u8
-ОХ-АХ HD-1868,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/11068/index.m3u8
 八蜜凛,#genre#
 八蜜凛1,https://surrit.com/0435ab78-c497-44f1-a16c-448cf122255b/playlist.m3u8
 八蜜凛2,https://surrit.com/9021fa41-6968-4ae4-8e82-b2d6febacaa2/playlist.m3u8
