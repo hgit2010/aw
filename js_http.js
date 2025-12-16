@@ -20,7 +20,8 @@
 {"name":"develop202","type":0,"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"YouTube🇹🇼","type":0,"url":"./tvbus/YouTube(1).txt","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
 {"name":"AnboxII🇹🇼🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
-{"name":"live🇹🇼🇨🇳","url":"./tvbus/live.txt","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
+{"name":"live🇹🇼","url":"./直播源/live.txt","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
+{"name":"live2","url":"./tvbus/live.txt","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"💿只有音樂","url":"./tvbus/music.txt","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"MyTvSuper","url":"http://xg.52sw.top/play/mytvsuper/index-mytvsuper.php","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 
