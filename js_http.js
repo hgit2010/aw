@@ -32,6 +32,7 @@
 {"key":"瓜子短劇","name":"✅瓜子短劇","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"jar":"./jar/nzk.jar","changeable":1},
 {"key":"py_甜圈短剧","name":"甜圈短剧","type":3,"api":"./py/甜圈短剧.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"星芽短剧.py","name":"星芽短剧.py","type":3,"api":"./py/星芽短剧.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"聚合短剧","name":"聚合短剧","type":3,"api":"csp_JuheShortDrama","searchable":1,"filterable":0,"switchable":0,"jar":"./jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412","ext":{"host":{"百度":"https://api.jkyai.top","甜圈":"https://mov.cenguigui.cn","锦鲤":"https://api.jinlidj.com","番茄":"https://reading.snssdk.com","番茄2":"https://fqgo.52dns.cc","星芽":"https://app.whjzjx.cn","星芽登录":"https://u.shytkjgs.com","西饭":"https://xifan-api-cn.youlishipin.com","七猫":"https://api-store.qmplaylet.com","七猫详情":"https://api-read.qmplaylet.com","围观":"https://api.drama.9ddm.com","碎片":"https://free-api.bighotwind.cc","碎片图片":"https://speed.hiknz.com"},"commonConfig":"./js/peizhi.json"}},
 {"key":"太硬白白","name":"✅白白(高清)","type":3,"api":"csp_SbaibaiGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"太硬南瓜","name":"✅南瓜","type":3,"api":"csp_NanGuaGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"太硬苹果","name":"✅苹果(高清)","type":3,"api":"csp_LiteAppleGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
