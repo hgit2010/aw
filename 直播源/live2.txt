@@ -51,7 +51,7 @@ XXX : Playboy Europe (18 ),http://epicboss.live:80/bjune@teksavvy.com/5193594414
 Playboy4,https://hyf000.eu.org/iptv/16
 Playboy Plus2,https://hyf000.eu.org/iptv/102
 Playboy LA3,https://hyf000.eu.org/iptv/140
-XXX-Playboy TV HD (Z),http://tv.zapping.life:8080/huvargas01/latinplus6485/10085
+:8080/huvargas01/latinplus6485/10085
 Playboy Plus3,http://lunar.pm:8080/Mrdon/4782314540/131339
 
 Hustler,#genre#
@@ -85,19 +85,19 @@ Penthouse Passion HD2,https://hyf000.eu.org/iptv/7
 Penthouse Gold HD2,https://hyf000.eu.org/iptv/8
 Penthouse Quickies HD2,https://hyf000.eu.org/iptv/9
 Penthouse Quickies 1300k2,https://hyf000.eu.org/iptv/18
-XXX-Adult Penthouse Black HD (Z)2,http://tv.zapping.life:8080/huvargas01/latinplus6485/10092
-XXX-Penthouse 1 (Z)(HD)2,http://tv.zapping.life:8080/huvargas01/latinplus6485/10109
-XXX-Penthouse Gold (Z)(HD)2,http://tv.zapping.life:8080/huvargas01/latinplus6485/10110
+:8080/huvargas01/latinplus6485/10092
+:8080/huvargas01/latinplus6485/10109
+:8080/huvargas01/latinplus6485/10110
 Penthouse Gold2,http://lunar.pm:8080/Mrdon/4782314540/131338
 squirt-,http://live.mycamtv.com/squirt.m3u8
 ОХ-АХ HD-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/11068/index.m3u8
 ОХ-АХ HD-1868,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/11068/index.m3u8
 私密頻道 ADULT,#genre#
-Premium +18 - Asian Bondage (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150763
-Premium +18 - Asian Footjob (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150764
-Premium +18 - AV 69 (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150768
-Premium +18 - AV Taxi (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150769
-Premium +18 - Caribbean.com (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150783
+:8080/huvargas01/latinplus6485/150763
+:8080/huvargas01/latinplus6485/150764
+:8080/huvargas01/latinplus6485/150768
+:8080/huvargas01/latinplus6485/150769
+:8080/huvargas01/latinplus6485/150783
 DREAMROOM,http://lunar.pm:8080/Mrdon/4782314540/131308
 SexArt,http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4ML799QKS2USNVRQ83BAVUQS/6253/index.m3u8
 MetArt FHD,http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12160/index.m3u8
@@ -713,153 +713,6 @@ LIBERTY EROTIKA HD,https://hyf000.eu.org/iptv/258
 Kinoshka Adult HD,https://hyf000.eu.org/iptv/261
 Eromania 4K,https://hyf000.eu.org/iptv/262
 DuckTV HD,https://hyf000.eu.org/iptv/263
-CANALES-ADULTOS +18,#genre#
-Adultos Creampie (e)(1080),http://tv.zapping.life:8080/huvargas01/latinplus6485/135677
-Adultos Gangbang (e)(1080),http://tv.zapping.life:8080/huvargas01/latinplus6485/135678
-Adultos Latinas (e)(1080),http://tv.zapping.life:8080/huvargas01/latinplus6485/135679
-Adultos Lesbianas (e)(1080),http://tv.zapping.life:8080/huvargas01/latinplus6485/135680
-Adultos Milk (e)(1080),http://tv.zapping.life:8080/huvargas01/latinplus6485/135681
-Adultos trios (e)(1080),http://tv.zapping.life:8080/huvargas01/latinplus6485/135682
-XXX-Playboy TV HD (Z),http://tv.zapping.life:8080/huvargas01/latinplus6485/10085
-XXX-Venus TV (Z),http://tv.zapping.life:8080/huvargas01/latinplus6485/10086
-XXX-Lesbian Channel HD (Z),http://tv.zapping.life:8080/huvargas01/latinplus6485/10087
-XXX-Brazzers HD (Z),http://tv.zapping.life:8080/huvargas01/latinplus6485/10088
-XXX-SexMex HD (Z),http://tv.zapping.life:8080/huvargas01/latinplus6485/10089
-XXX-Adult Channel HD (Z),http://tv.zapping.life:8080/huvargas01/latinplus6485/10090
-XXX-Gay Channel HD (Z),http://tv.zapping.life:8080/huvargas01/latinplus6485/10091
-XXX-Adult Penthouse Black HD (Z),http://tv.zapping.life:8080/huvargas01/latinplus6485/10092
-XXX-Sinsations: Mofos (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10093
-XXX-Babes (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10094
-XXX-Bang Bros (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10095
-XXX-Blacked (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10096
-XXX-Deepthroat Sirens (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10097
-XXX-Gay (men) (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10098
-XXX-Gay 2 (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10099
-XXX-Lesbian (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10100
-XXX-Pure Taboo (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10101
-XXX-Whipped Ass (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10102
-XXX-Erotic 5 (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10103
-XXX-Hotclub 3 (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10104
-XXX-Jasmin TV (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10105
-XXX-Max (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10106
-XXX-Oh - Ah (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10107
-XXX-Passion (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10108
-XXX-Penthouse 1 (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10109
-XXX-Penthouse Gold (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10110
-XXX-Private TV (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10111
-XXX-Redlight (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10112
-XXX-Sinsations: Girls Gone Wild (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10113
-XXX-Sinsations: Bang Bros 2 (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10114
-XXX-Sinsations: Bang Bros (Z)(HD),http://tv.zapping.life:8080/huvargas01/latinplus6485/10115
-24/7 Only Fans (+18),#genre#
-24/7 OnlyFans - Isabela Pelaez Premium (e)(1080),http://tv.zapping.life:8080/huvargas01/latinplus6485/111454
-24/7 OnlyFans Luisa Espinoza Premium (e)(1080),http://tv.zapping.life:8080/huvargas01/latinplus6485/106933
-24/7 OnlyFans Lady Noboa Premium (e)(1080),http://tv.zapping.life:8080/huvargas01/latinplus6485/106934
-24-7 OnlyFans - Cintia Cossio,http://tv.zapping.life:8080/huvargas01/latinplus6485/106527
-OnlyFans - Karely Ruiz,http://tv.zapping.life:8080/huvargas01/latinplus6485/106542
-OnlyFans - Aida Cortez,http://tv.zapping.life:8080/huvargas01/latinplus6485/106543
-OnlyFans - Luisa Espinosa,http://tv.zapping.life:8080/huvargas01/latinplus6485/106544
-24-7 Jenny Ponce Premium (e)(1080),http://tv.zapping.life:8080/huvargas01/latinplus6485/111328
-24-7 OnlyFans - Zara Yazmin Premium (e),http://tv.zapping.life:8080/huvargas01/latinplus6485/106545
-24-7 OnlyFans - Lizbeth Rodriguez,http://tv.zapping.life:8080/huvargas01/latinplus6485/106525
-24-7 OnlyFans -Auhneesh Nicole,http://tv.zapping.life:8080/huvargas01/latinplus6485/106526
-24-7 OnlyFans - VanesaDP19,http://tv.zapping.life:8080/huvargas01/latinplus6485/106528
-24-7 OnlyFans - Coconey,http://tv.zapping.life:8080/huvargas01/latinplus6485/106529
-24-7 OnlyFans - Dainty Wilder,http://tv.zapping.life:8080/huvargas01/latinplus6485/106530
-24-7 OnlyFans - HannahJo,http://tv.zapping.life:8080/huvargas01/latinplus6485/106531
-24-7 OnlyFans - Ivanka Peach,http://tv.zapping.life:8080/huvargas01/latinplus6485/106532
-24-7 OnlyFans - SolaZola,http://tv.zapping.life:8080/huvargas01/latinplus6485/106533
-24-7 OnlyFans - Levanabanana,http://tv.zapping.life:8080/huvargas01/latinplus6485/106534
-24-7 OnlyFans - Raelil Black,http://tv.zapping.life:8080/huvargas01/latinplus6485/106535
-24-7 OnlyFans - Veronica Perasso,http://tv.zapping.life:8080/huvargas01/latinplus6485/106536
-24-7 OnlyFans - Pixei,http://tv.zapping.life:8080/huvargas01/latinplus6485/106537
-24-7 OnlyFans - Asyabunny,http://tv.zapping.life:8080/huvargas01/latinplus6485/106538
-24-7 OnlyFans - Whoahannahjo,http://tv.zapping.life:8080/huvargas01/latinplus6485/106539
-24-7 OnlyFans - Chloe Cream,http://tv.zapping.life:8080/huvargas01/latinplus6485/106540
-24-7 OnlyFans,http://tv.zapping.life:8080/huvargas01/latinplus6485/106521
-24-7 OnlyFans 2,http://tv.zapping.life:8080/huvargas01/latinplus6485/106522
-24-7 OnlyFans 3,http://tv.zapping.life:8080/huvargas01/latinplus6485/106523
-24-7 OnlyFans 4,http://tv.zapping.life:8080/huvargas01/latinplus6485/106524
-24-7 OnlyFans 5,http://tv.zapping.life:8080/huvargas01/latinplus6485/106541
-AdultIPTV.net Live Cams (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135683
-AdultIPTV.net MILF (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135684
-AdultIPTV.net Big Dick (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135685
-AdultIPTV.net Big Tits (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135686
-AdultIPTV.net Fetish (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135687
-AdultIPTV.net Pornstar (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135688
-AdultIPTV.net Big Ass (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135689
-AdultIPTV.net Interracial (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135690
-AdultIPTV.net Latina (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135691
-AdultIPTV.net POV (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135692
-AdultIPTV.net Blowjob (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135693
-AdultIPTV.net Teen (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135694
-AdultIPTV.net Hardcore (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135695
-AdultIPTV.net Cuckold (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135696
-AdultIPTV.net Threesome (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135697
-AdultIPTV.net Russian (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135698
-AdultIPTV.net Lesbian (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135699
-AdultIPTV.net Rough (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135700
-AdultIPTV.net Gangbang (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135701
-AdultIPTV.net Anal (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135702
-AdultIPTV.net Compilation (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135703
-AdultIPTV.net Brunette (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135704
-AdultIPTV.net Blonde (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135705
-AdultIPTV.net Gay (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135706
-AdultIPTV.net Asian (WEB),http://tv.zapping.life:8080/huvargas01/latinplus6485/135707
-RED TV PORN PREMIUM (+18),#genre#
-Premium +18 - Big Tits +18 (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150750
-Premium +18 - 1 Pass (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150751
-Premium +18 - 5K Teens (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150752
-Premium +18 - 18 Videoz (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150753
-Premium +18 - 21 Sextury (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150754
-Premium +18 - Abbie Maley (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150755
-Premium +18 - Adam And Eve Pictures (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150756
-Premium +18 - Adult Time (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150757
-Premium +18 - African Casting (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150758
-Premium +18 - African Sex Trip (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150759
-Premium +18 - All Anal (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150760
-Premium +18 - All Pornsites Pass (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150761
-Premium +18 - Analized (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150762
-Premium +18 - Asian Bondage (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150763
-Premium +18 - Asian Footjob (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150764
-Premium +18 - ATK Exotics (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150765
-Premium +18 - ATK Girlfriends (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150766
-Premium +18 - ATK Hair (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150767
-Premium +18 - AV 69 (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150768
-Premium +18 - AV Taxi (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150769
-Premium +18 - Babes (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150770
-Premium +18 - Back Room Casting Couch (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150771
-Premium +18 - Bad Daddy POV (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150772
-Premium +18 - Bam Visions (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150773
-Premium +18 - Bang (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150774
-Premium +18 - Bang Bros compilations (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150775
-Premium +18 - bangbros (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150776
-Premium +18 - Bellesa Films (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150777
-Premium +18 - Black 4k (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150778
-Premium +18 - Blacked (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150779
-Premium +18 - Blacked Raw (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150780
-Premium +18 - Box Of Porn (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150781
-Premium +18 - Cam Soda (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150782
-Premium +18 - Caribbean.com (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150783
-Premium +18 - Cherry Pimps (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150784
-Premium +18 - Club Sweethearts (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150785
-Premium +18 - Cum4K (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150786
-Premium +18 - Czech (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150787
-Premium +18 - Daddy 4K (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150788
-Premium +18 - Dark X (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150789
-Premium +18 - DDF Network (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150790
-Premium +18 - Deep Lush (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150791
-Premium +18 - Deeper (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150792
-Premium +18 - Defloration TV (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150793
-Premium +18 - Desperate Amateurs (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150794
-Premium +18 - Devils Film (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150795
-Premium +18 - Digital Playground (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150796
-Premium +18 - Dirty Flix (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150797
-Premium +18 - Do The Wife (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150798
-Premium +18 - Dogfart Network (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150799
-Premium +18 - Dorcel (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150800
-Premium +18 - Erotica X (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150801
-Premium +18 - Evil Angel (e)(720),http://tv.zapping.life:8080/huvargas01/latinplus6485/150802
 XXX (Adult 18+ Only),#genre#
 A GIRL KNOWS,http://lunar.pm:8080/Mrdon/4782314540/131295
 ADULT TIME,http://lunar.pm:8080/Mrdon/4782314540/131296
