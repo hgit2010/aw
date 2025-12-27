@@ -3,10 +3,10 @@
 "logo": "./謝分享.gif",
 
 "lives":[
-{"name":"立視LiTV🇹🇼","type": 3,"api": "./py/live_litv.py","ext": {},"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"test","url":"./test.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"大陸1️⃣🇨🇳","url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"大陸2️⃣🇨🇳","url":"https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/user_result.m3u","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
- {"name":"🆘Dl js test","url":"file://Download/js/test.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
+{"name":"🆘Dl js test","url":"file://Download/js/test.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"🆘Dl test","url":"file://Download/test.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"🆘DL livex","url":"file://Download/livex.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"🆘tac testx","url":"file://tac/testx.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -42,7 +42,7 @@
 {"key" : "奶香m🔞","name": "🔞|奶香 解說","type":1,"api": "https://Naixxzy.com/api.php/provide/vod/?ac=list","searchable": 1,"style":{"type":"rect","ratio":1.4}},
 {"key" : "森林专场🔞","name": "🔞|森林A","type":1,"api": "https://slapibf.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["精品推荐","国产色情","主播直播","亚洲无码","亚洲有码","中文字幕","巨乳美乳","人妻熟女","强奸乱伦","欧美精品","萝莉少女","伦理三级","成人动漫","自拍偷拍","制服丝袜","口交颜射","日本精品","Cosplay","素人自拍","台湾辣妹","韩国御姐","唯美港姐","东南亚AV","欺辱凌辱","剧情介绍","多人多P","91探花","网红流出","野外露出","古装扮演","女优系列","可爱学生","风情旗袍","兽耳系列","瑜伽裤","闷骚护士","过膝袜","网曝门","传媒出品","女同性恋","男同性恋","恋腿狂魔"],"style":{"type":"rect","ratio":1.4}},
 {"key" : "timizy🔞","name": "🔞|甜蜜","type":1,"api": "https://timizy10.cc/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories": ["中文字幕","日本有码","日本无码","欧美精品","强奸乱伦","制服诱惑","国产视频","激情动漫","明星换脸","抖阴视频","女优明星","网曝黑料","萝莉少女","热门头条","SM调教","精品三级","AV解说","国产传媒","同性恋区","国产主播","VP视角","滴滴探花","人妖系列","精选视频"],"style":{"type":"rect","ratio":1.4}},
-{"key" : "ss直播🔞","name": "🔞|ss直播","type":3,"api": "./drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/ss直播.js","style":{"type":"rect","ratio":1.4}},
+{"key" : "ss直播🔞","name": "🔞|ss直播","type":3,"api": "./lib/drpy.min.sq.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/ss直播.js","style":{"type":"rect","ratio":1.4}},
 {"key" : "JavDb🔞","name": "🔞|JavDb","type":3,"api": "csp_JavDb","timeout": 100,"searchable": 1,"style":{"type":"rect","ratio":1.4}},
 {"key" : "MissAV🔞","name": "🔞|MissAV(js)","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/Missav.js","searchable": 1,"style": {"type": "rect","ratio": 1.4}},
 {"key": "pgXojavpg","name": "🔞pg-XOJav","type": 3,"api": "csp_Xojav","jar": "./jar/pgAV.jar","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 0,"timeout": 60,"style": {"type": "rect","ratio": 1.5}},
