@@ -23,6 +23,7 @@
 {"key":"我的哔哩sq","name":"我的哔哩sq","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/我的哔哩sq.js"},
 {"key":"bili","name":"B站|Bili[jar]","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"changeable":0,"ext":{	"type":"小姐姐4K#演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",	"cookie":""}},
 {"key":"色直播","name":"色直播聚合","type":3,"api":"./py/色播.py","searchable":1,"filterable":0,"changeable":0},
+{"key":"ss直播🔞","name":"🔞|ss直播","type":3,"api":"./lib/drpy.min.sq.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/ss直播.js","style":{"type":"rect","ratio":1.4}},
 {"key":"py_007吃瓜","name":"007吃瓜","type":3,"api":"./py/007吃瓜.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1}
 //{"key":"说明","name":"------公众号【云星日记】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"说明2","name":"------提供免费更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
