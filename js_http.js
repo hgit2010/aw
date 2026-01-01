@@ -11,7 +11,7 @@
 {"name":"冰茶🇨🇳","type":0,"url":"https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true","timeout":10,"ua":"bingcha/1.1(mianfeifenxiang)"},
 {"name":"大陸1️⃣🇨🇳","url":"https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/user_result.m3u","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"大陸2️⃣多源🇨🇳耐心轉圓圈","url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
-{"name":"SMT(有大陸)🇹🇼🇨🇳","type":3,"url":"https://raw.githubusercontent.com/doube-ba/TVlogo/refs/heads/main/smt.txt","api":"./py/SMT.py","ext":{}}
+{"name":"SMT(有大陸)🇹🇼🇨🇳","type":3,"url":"https://raw.githubusercontent.com/doube-ba/TVlogo/refs/heads/main/smt.txt","api":"./py/SMT.py","ext":{}},
 {"name":"范明明（需开启V6网络）","type":0,"url":"https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u","playerType":2},
 {"name":"YouTube🇹🇼","type":0,"url":"./tvbus/YouTube(1).txt","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
 {"name":"AnboxII🇹🇼🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
