@@ -2,7 +2,7 @@
 "spider":"./jar/f1002.jar",
 "logo":"./謝分享.gif",
 "lives":[
-{"name":"立視LiTV_php修正🇹🇼","url": "./py/litv_leifeng.php","ext": {},"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+//{"name":"立視LiTV_php修正🇹🇼","url": "./py/litv_leifeng.php","ext": {},"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"立視LiTV_py🇹🇼","type":3,"api":"./py/live_litv.py","ext":{},"epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"立視LiTV_php🇹🇼","url": "./py/litv_ts.php","ext": {},"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 //{"name":"立視 4gtv(分類)🇹🇼","type":0,"url":"http://xg.52sw.top/iptv/litv.php","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
