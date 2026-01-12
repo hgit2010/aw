@@ -1,15 +1,13 @@
 CCTV3,#genre#
-CCTV3_iptvcatvod,https://iptv.catvod.com/live.php?id=CCTV-3
-CCTV3_livecatvod,https://live.catvod.com/live.php?id=cctv3
 CCTV3_iptv4666888,http://iptv.4666888.xyz/iptv2A.php?id=9
 CCTV3_kouki,http://kouki.pro:8888/udp/239.49.8.74:8000
 CCTV3_yp,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
-CCTV3_tvlist,http://tvlist.top/jd/index.php?id=cctv3&qt=183.224.122.114:8014
 CCTV3_go,http://go.bkpcp.top/mg/cctv3
 CCTV3_t,http://t.061899.xyz/tl/tl.php?id=cctv3
 CCTV3_cdn6,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3 
 CCTV3_m,http://m.061899.xyz/mg/cctv3
-CCTV3_171,http://171.15.18.199:8180/TV00000000000000000003@HHZT
+CCTV3_iptvcatvod,https://iptv.catvod.com/live.php?id=CCTV-3
+CCTV3_livecatvod,https://live.catvod.com/live.php?id=cctv3
 
 野外求生01,#genre#
 《互為貴人》第1季（01-04）合集,https://www.youtube.com/watch?v=6lvo0XGhpLA

@@ -13,7 +13,7 @@
 header('Content-Type: text/plain; charset=utf-8');
 
 // ========== 基本配置 ==========
-$SECRET_TOKEN = 'cnbkk'; // 修改为你自己的 token
+$SECRET_TOKEN = ''; // 修改为你自己的 token
 $DEFAULT_GROUP = 'LITV';
 
 // ========== Token 验证 ==========
