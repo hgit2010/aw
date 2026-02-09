@@ -15,7 +15,7 @@
 {
 "spider":"./jar/fm.jar",
 //"spider":"./jar/pg.jar",
-"logo": "./謝分享.gif",
+"logo": "./馬年.gif",
 
 
 

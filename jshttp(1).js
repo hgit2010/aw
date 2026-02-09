@@ -1,6 +1,6 @@
 {
 "spider":"./jar/f1002.jar",
-"logo":"./謝分享.gif",
+"logo":"./馬年.gif",
 "lives":[
 {"name":"立視LiTV_php🇹🇼","url": "./py/litv_ts.php","ext": {},"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"4gTV🇹🇼","type": 3,"api": "./py/台湾4g备用.py","ext": {},"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -27,9 +27,9 @@
 ],
 "hosts":["cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn"],
 "sites":[
-{"key":"drpy","name":"２０２６年🔥風風火火👉馬上封侯☀萬馬奔騰💥馬到發財♥馬到情成✅馬力全開🆗神馬都好🤗馬到成功🐎一馬當先🦓龍馬精神🌋馬年大吉♐馬到平安🇹🇼金馬玉堂","type":3, "api":"csp_DouDouGuard","indexs":1,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"sq豆瓣","name":"２０２６年🔥風風火火👉馬上封侯☀萬馬奔騰💥馬到發財♥馬到情成✅馬力全開🆗神馬都好🤗馬到成功🐎一馬當先🦓龍馬精神🌋馬年大吉♐馬到平安🇹🇼金馬玉堂","type":3,"api":"./lib/drpy.min.sq.js","ext":"./js/豆瓣.js"},
-{"key":"py_py_douban","name":"２０２６年🔥風風火火👉馬上封侯☀萬馬奔騰💥馬到發財♥馬到情成✅馬力全開🆗神馬都好🤗馬到成功🐎一馬當先🦓龍馬精神🌋馬年大吉♐馬到平安🇹🇼金馬玉堂","type":3,"api":"./py/py_douban.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"drpy","name":"2026丙午年👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3, "api":"csp_DouDouGuard","indexs":1,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"sq豆瓣","name":"2026丙午年👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3,"api":"./lib/drpy.min.sq.js","ext":"./js/豆瓣.js"},
+{"key":"py_py_douban","name":"2026丙午年👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3,"api":"./py/py_douban.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"新韩剧网","name":"新韓劇網.py","type":3,"api":"./py/新韩剧网.min.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":{}},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy.min.sq.js","ext":"./js/ikanbotsq.js","searchable":1,"changeable":1},
 {"key":"瓜子短劇","name":"✅瓜子短劇","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"jar":"./jar/nzk.jar","changeable":1},

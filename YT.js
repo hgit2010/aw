@@ -1,7 +1,7 @@
 {
 "spider":"./jar/pg.jar",
 //"spider":"./jar/pg.jar",
-"logo": "./謝分享.gif",
+"logo": "./馬年.gif",
 "lives":[
 {"name":"YouTube🇹🇼","type": 0,"url": "./tvbus/YouTube(1).txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],

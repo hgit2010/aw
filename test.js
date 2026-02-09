@@ -1,6 +1,6 @@
 {
 "spider":"./jar/f1002.jar",
-"logo": "./謝分享.gif",
+"logo": "./馬年.gif",
 
 "lives":[
 {"name":"test","url":"./test.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  

@@ -2,7 +2,7 @@
 {
 "spider":"./jar/fm.jar",
 //"spider":"./jar/pg.jar",
-"logo": "./謝分享.gif",
+"logo": "./馬年.gif",
 "lives":[{"name":"KTV","type":0,"url":"./KTV.txt"}],
 "sites":[
 //{"key":"MV_vod","name":"MTV合集","type":1,"api":"https://tvbox-mv-xianlaihuyu.koyeb.app/mv/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":"1"},
