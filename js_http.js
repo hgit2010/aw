@@ -25,9 +25,9 @@
 ],
 "hosts":["cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn"],
 "sites":[
-{"key":"drpy","name":"2026年👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3, "api":"csp_DouDouGuard","indexs":1,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"sq豆瓣","name":"2026年👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3,"api":"./lib/drpy.min.sq.js","ext":"./js/豆瓣.js"},
-{"key":"py_py_douban","name":"2026年👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3,"api":"./py/py_douban.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"drpy","name":"2026👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3, "api":"csp_DouDouGuard","indexs":1,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"sq豆瓣","name":"2026👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3,"api":"./lib/drpy.min.sq.js","ext":"./js/豆瓣.js"},
+{"key":"py_py_douban","name":"2026👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3,"api":"./py/py_douban.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"新韩剧网","name":"新韓劇網.py","type":3,"api":"./py/新韩剧网.min.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":{}},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy.min.sq.js","ext":"./js/ikanbotsq.js","searchable":1,"changeable":1},
 {"key":"瓜子短劇","name":"✅瓜子短劇","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"jar":"./jar/nzk.jar","changeable":1},
