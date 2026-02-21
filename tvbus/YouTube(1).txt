@@ -1,4 +1,4 @@
-新聞,#genre#
+新聞live,#genre#
 TVBS新聞,https://www.youtube.com/live/m_dhMSvUCIc
 TVBS選新聞,https://www.youtube.com/live/w1zClUN04Do
 TVBS地震,https://www.youtube.com/live/0eOhU2J_MXE
@@ -21,6 +21,29 @@ NBC NEW,https://www.youtube.com/live/28wlObFCQrE
 CNN NEW,https://www.youtube.com/live/YDfiTGGPYCk
 CCTV新聞,https://www.youtube.com/live/SdzewdkJa-o
 NHK新聞,https://www.youtube.com/live/f0lYkdA-Gtw
+新聞watch,#genre#
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS選新聞,https://www.youtube.com/watch?v=w1zClUN04Do
+TVBS地震,https://www.youtube.com/watch?v=0eOhU2J_MXE
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
+三立財經,https://www.youtube.com/watch?v=1mbhK0xfohY
+中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+中天深喉嚨,https://www.youtube.com/watch?v=DM_PEM8GrIg
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+EBC東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4
+NBC NEW,https://www.youtube.com/watch?v=28wlObFCQrE
+CNN NEW,https://www.youtube.com/watch?v=YDfiTGGPYCk
+CCTV新聞,https://www.youtube.com/watch?v=SdzewdkJa-o
+NHK新聞,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 影視綜藝,#genre#
 大愛,https://www.youtube.com/watch?v=MIqUplvSRWA
 大愛2,https://www.youtube.com/watch?v=DTNkEm6jaqQ
