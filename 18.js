@@ -11,7 +11,7 @@
 {"name":"撸管源3️⃣","type":0,"url":"./直播源/livex3.txt"},  
 {"name":"撸管源4️⃣","type":0,"url":"./直播源/livex4.txt"},  
 {"name":"撸管源5️⃣","type":0,"url":"./直播源/livex5.txt"},  
-{"name":"merged_xingba_AV解说","type":0,"url":"./直播源/merged_xingba_AV解说.txt"},  
+{"name":"AV解说","type":0,"url":"./直播源/merged_xingba_AV解说.txt"},  
 {"name":"YanG-1989_Adult","type":0,"url":"https://tv.iill.top/m3u/Adult","referer":"https://theav101.com/","ua":"okhttp/3.15","epg":"http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"atsushi","type":0,"url":"https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u","epg":"http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
