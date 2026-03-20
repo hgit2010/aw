@@ -17,7 +17,7 @@
 {"key":"sq豆瓣","name":"2026👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3,"api":"./lib/drpy.min.sq.js","ext":"./js/豆瓣.js"},
 {"key":"py_py_douban","name":"2026👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3,"api":"./py/py_douban.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"name":"🍉找短剧","key":"找短剧_嗷呜","type":3,"api":"csp_HgggAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0,"jar":"./jar/bfdb--cvdvds.jar"},
-{"key":"csp_Bili短劇","name":"B站短劇_s","api":"csp_Bili","type":3,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fm.jar","ext":"./js/Bili短劇.json"},
+{"key":"csp_Bili短劇","name":"🅱站短劇_s","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fm.jar","ext":{	"type":"短剧#一口气看完#一口气#爽剧#仙侠","filter":{"短剧":[{"key":"duration","name":"时长","value":[{"n":"全部","v":"0"},{"n":"60分钟以上","v":"4"},{"n":"30~60分钟","v":"3"},{"n":"10~30分钟","v":"2"},{"n":"10分钟以下","v":"1"}]}]},	"cookie":""}},
 {"key":"太硬文采","name":"💈文采💈","type":3,"api":"csp_JpysGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"太硬立播","name":"✅立播_太硬","type": 3,"api": "csp_LibvioGuard","timeout":10,"searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"太硬奶酪","name":"💈奶酪💈","type":3,"api":"csp_T4Guard","searchable":1,"quickSearch":1,"changeable":0,"ext":"rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="},
@@ -91,9 +91,9 @@
 {"key":"魔都影视_sapper","name":"😰魔都影视","type":1,"api":"https://www.moduzy.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"魔都资源_sapper","name":"😰魔都资源","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"魔都动漫_sapper","name":"😰魔都动漫","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod","searchable":1,"changeable":1},
-{"key":"bili","name":"bili | fm","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"changeable":0,"jar":"./jar/fm.jar","ext":{	"type":"小姐姐4K#演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",	"cookie":""}},
-{"key":"我的哔哩sq","name":"bili | sq","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./lib/我的哔哩sq.js"},
-{"key":"Bili太硬","name":"bili | 太硬","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./js/太硬bili.js"}},
+{"key":"bili","name":"🅱bili | fm","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fm.jar","ext":{	"type":"小姐姐4K#演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",	"cookie":""}},
+{"key":"我的哔哩sq","name":"🅱bili | sq","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./lib/我的哔哩sq.js"},
+{"key":"Bili太硬","name":"🅱bili | 太硬","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./js/太硬bili.js"}},
 {"key":"应用商店","name":"应用商店","type":3,"api":"csp_Market","searchable":1,"changeable":1,"ext":"./js/market.json","style":{"type":"rect","ratio":1}}
 ],
 "parses":[
