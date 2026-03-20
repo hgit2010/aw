@@ -30,6 +30,7 @@
 {"key":"sq豆瓣","name":"2026👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3,"api":"./lib/drpy.min.sq.js","ext":"./js/豆瓣.js"},
 {"key":"py_py_douban","name":"2026👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3,"api":"./py/py_douban.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"name":"🍉找短剧","key":"找短剧_嗷呜","type":3,"api":"csp_HgggAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0,"jar":"./jar/bfdb--cvdvds.jar"},
+{"key":"csp_Bili短劇","name":"B站短劇_s","api":"csp_Bili","type":3,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQH.jar","ext":"./js/Bili短劇.json"},
 {"key":"太硬文采","name":"💈文采💈","type":3,"api":"csp_JpysGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"太硬立播","name":"✅立播_太硬","type": 3,"api": "csp_LibvioGuard","timeout":10,"searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"太硬奶酪","name":"💈奶酪💈","type":3,"api":"csp_T4Guard","searchable":1,"quickSearch":1,"changeable":0,"ext":"rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="},
@@ -93,7 +94,8 @@
 {"key":"卧龙资源_sapper","name":"🧑‍🎄卧龙资源","type":1,"api":"https://wolongzyw.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"旺旺API_sapper","name":"🧑‍🎄旺旺API","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"飘零资源_sapper","name":"🧑‍🎄飘零资源","type":1,"api":"https://p2100.net/api.php/provide/vod","searchable":1,"changeable":1},
-{"key":"csp_Bili短劇","name":"B站短劇_s","api":"csp_Bili","type":3,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQH.jar","ext":"./js/Bili短劇.json"},
+{"key":"bili","name":"B站|Bili[jar]","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"changeable":0,"ext":{	"type":"小姐姐4K#演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",	"cookie":""}},
+{"key":"我的哔哩sq","name":"我的哔哩sq","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./lib/我的哔哩sq.js"}
 {"key":"py_xiaoji.py","name":"🌕小鴨暴走.py","type":3,"api":"./py/py_xiaoji.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"无尽ME_sapper","name":"🌕无尽ME","type":1,"api":"https://api.wujinapi.me/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"速博资源_sapper","name":"🌕速博资源","type":1,"api":"https://subocaiji.com/api.php/provide/vod","searchable":1,"changeable":1},
