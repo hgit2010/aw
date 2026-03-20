@@ -91,6 +91,8 @@
 {"key":"魔都影视_sapper","name":"😰魔都影视","type":1,"api":"https://www.moduzy.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"魔都资源_sapper","name":"😰魔都资源","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"魔都动漫_sapper","name":"😰魔都动漫","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"bili","name":"B站|Bili[jar]","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"changeable":0,"ext":{	"type":"小姐姐4K#演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",	"cookie":""}},
+{"key":"我的哔哩sq","name":"我的哔哩sq","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./lib/我的哔哩sq.js"},
 {"key":"应用商店","name":"应用商店","type":3,"api":"csp_Market","searchable":1,"changeable":1,"ext":"./js/market.json","style":{"type":"rect","ratio":1}}
 ],
 "parses":[
