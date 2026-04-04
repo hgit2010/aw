@@ -29,6 +29,7 @@
 {"key":"drpy","name":"2026👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3, "api":"csp_DouDouGuard","indexs":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"sq豆瓣","name":"2026👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3,"api":"./lib/drpy.min.sq.js","ext":"./js/豆瓣.js"},
 {"key":"py_py_douban","name":"2026👉馬上封猴💥馬到發財🤗馬到成功🦓龍馬精神🌋馬年大吉♐馬到平安","type":3,"api":"./py/py_douban.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"wv_yszb","name":"🇨🇳央视直播(1080P)","api":"csp_WvSpider","type":"3","ext":"./js/央视直播.js","jar":"./jar/WvSpider.jar","searchable":1,"filterable":1,"switchable":1},
 {"name":"🍉找短剧","key":"找短剧_嗷呜","type":3,"api":"csp_HgggAmns","indexs":1,"searchable":1,"filterable":0,"quickSearch":0,"changeable":0,"jar":"./jar/bfdb--cvdvds.jar"},
 {"key":"csp_Bili短劇","name":"🅱站短劇_s","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fm.jar","ext":{	"type":"短剧#一口气看完#一口气#爽剧#仙侠","filter":{"短剧":[{"key":"duration","name":"时长","value":[{"n":"全部","v":"0"},{"n":"60分钟以上","v":"4"},{"n":"30~60分钟","v":"3"},{"n":"10~30分钟","v":"2"},{"n":"10分钟以下","v":"1"}]}]},	"cookie":""}},
 {"key":"太硬文采","name":"💈文采💈","type":3,"api":"csp_JpysGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
