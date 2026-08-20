@@ -1,0 +1,298 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV01" tvg-name="三立iNEWS", 三立iNEWS
+# Channel: TV01 - 三立iNEWS
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV01.m3u8
+#EXTINF:-1 tvg-id="TV02" tvg-name="寰宇新聞台", 寰宇新聞台
+# Channel: TV02 - 寰宇新聞台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV02.m3u8
+#EXTINF:-1 tvg-id="TV03" tvg-name="東森財經新聞", 東森財經新聞
+# Channel: TV03 - 東森財經新聞
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV03.m3u8
+#EXTINF:-1 tvg-id="TV04" tvg-name="momo購物一台", momo購物一台
+# Channel: TV04 - momo購物一台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV04.m3u8
+#EXTINF:-1 tvg-id="TV05" tvg-name="momo購物二台", momo購物二台
+# Channel: TV05 - momo購物二台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV05.m3u8
+#EXTINF:-1 tvg-id="TV06" tvg-name="運通財經台", 運通財經台
+# Channel: TV06 - 運通財經台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV06.m3u8
+#EXTINF:-1 tvg-id="TV07" tvg-name="信大電視台", 信大電視台
+# Channel: TV07 - 信大電視台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV07.m3u8
+#EXTINF:-1 tvg-id="TV08" tvg-name="DW News", DW News
+# Channel: TV08 - DW News
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV08.m3u8
+#EXTINF:-1 tvg-id="TV09" tvg-name="中視新聞", 中視新聞
+# Channel: TV09 - 中視新聞
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV09.m3u8
+#EXTINF:-1 tvg-id="TV10" tvg-name="Malaimurasu Tv 24X7", Malaimurasu Tv 24X7
+# Channel: TV10 - Malaimurasu Tv 24X7
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV10.m3u8
+#EXTINF:-1 tvg-id="TV11" tvg-name="Asianet News", Asianet News
+# Channel: TV11 - Asianet News
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV11.m3u8
+#EXTINF:-1 tvg-id="TV12" tvg-name="華視戲劇頻道", 華視戲劇頻道
+# Channel: TV12 - 華視戲劇頻道
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV12.m3u8
+#EXTINF:-1 tvg-id="TV13" tvg-name="中天亞洲台", 中天亞洲台
+# Channel: TV13 - 中天亞洲台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV13.m3u8
+#EXTINF:-1 tvg-id="TV14" tvg-name="Al Jazeera Arabic", Al Jazeera Arabic
+# Channel: TV14 - Al Jazeera Arabic
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV14.m3u8
+#EXTINF:-1 tvg-id="TV15" tvg-name="JapaNews24", JapaNews24
+# Channel: TV15 - JapaNews24
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV15.m3u8
+#EXTINF:-1 tvg-id="TV16" tvg-name="THE K-POP", THE K-POP
+# Channel: TV16 - THE K-POP
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV16.m3u8
+#EXTINF:-1 tvg-id="TV17" tvg-name="民視新聞", 民視新聞
+# Channel: TV17 - 民視新聞
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV17.m3u8
+#EXTINF:-1 tvg-id="TV18" tvg-name="東森購物台CH60", 東森購物台CH60
+# Channel: TV18 - 東森購物台CH60
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV18.m3u8
+#EXTINF:-1 tvg-id="TV19" tvg-name="東森購物台CH46", 東森購物台CH46
+# Channel: TV19 - 東森購物台CH46
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV19.m3u8
+#EXTINF:-1 tvg-id="TV20" tvg-name="LIVE NOW", LIVE NOW
+# Channel: TV20 - LIVE NOW
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV20.m3u8
+#EXTINF:-1 tvg-id="TV21" tvg-name="Haberturk TV", Haberturk TV
+# Channel: TV21 - Haberturk TV
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV21.m3u8
+#EXTINF:-1 tvg-id="TV22" tvg-name="鳳凰衛視資訊台", 鳳凰衛視資訊台
+# Channel: TV22 - 鳳凰衛視資訊台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV22.m3u8
+#EXTINF:-1 tvg-id="TV23" tvg-name="新唐人LIVE", 新唐人LIVE
+# Channel: TV23 - 新唐人LIVE
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV23.m3u8
+#EXTINF:-1 tvg-id="TV24" tvg-name="ABC News", ABC News
+# Channel: TV24 - ABC News
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV24.m3u8
+#EXTINF:-1 tvg-id="TV25" tvg-name="台視新聞台", 台視新聞台
+# Channel: TV25 - 台視新聞台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV25.m3u8
+#EXTINF:-1 tvg-id="TV26" tvg-name="華視綜藝頻道", 華視綜藝頻道
+# Channel: TV26 - 華視綜藝頻道
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV26.m3u8
+#EXTINF:-1 tvg-id="TV27" tvg-name="Astro AWANI", Astro AWANI
+# Channel: TV27 - Astro AWANI
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV27.m3u8
+#EXTINF:-1 tvg-id="TV28" tvg-name="中天電視", 中天電視
+# Channel: TV28 - 中天電視
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV28.m3u8
+#EXTINF:-1 tvg-id="TV29" tvg-name="Tokyo Walk", Tokyo Walk
+# Channel: TV29 - Tokyo Walk
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV29.m3u8
+#EXTINF:-1 tvg-id="TV30" tvg-name="大愛一臺HD", 大愛一臺HD
+# Channel: TV30 - 大愛一臺HD
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV30.m3u8
+#EXTINF:-1 tvg-id="TV31" tvg-name="TVBS NEWS 24小時直播", TVBS NEWS 24小時直播
+# Channel: TV31 - TVBS NEWS 24小時直播
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV31.m3u8
+#EXTINF:-1 tvg-id="TV32" tvg-name="三立新聞台", 三立新聞台
+# Channel: TV32 - 三立新聞台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV32.m3u8
+#EXTINF:-1 tvg-id="TV33" tvg-name="GB News", GB News
+# Channel: TV33 - GB News
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV33.m3u8
+#EXTINF:-1 tvg-id="TV34" tvg-name="中視經典綜藝", 中視經典綜藝
+# Channel: TV34 - 中視經典綜藝
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV34.m3u8
+#EXTINF:-1 tvg-id="TV35" tvg-name="Sky News", Sky News
+# Channel: TV35 - Sky News
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV35.m3u8
+#EXTINF:-1 tvg-id="TV36" tvg-name="India Today", India Today
+# Channel: TV36 - India Today
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV36.m3u8
+#EXTINF:-1 tvg-id="TV37" tvg-name="Euronews English", Euronews English
+# Channel: TV37 - Euronews English
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV37.m3u8
+#EXTINF:-1 tvg-id="TV38" tvg-name="FRANCE 24 English", FRANCE 24 English
+# Channel: TV38 - FRANCE 24 English
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV38.m3u8
+#EXTINF:-1 tvg-id="TV39" tvg-name="NBC News", NBC News
+# Channel: TV39 - NBC News
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV39.m3u8
+#EXTINF:-1 tvg-id="TV40" tvg-name="News18 India", News18 India
+# Channel: TV40 - News18 India
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV40.m3u8
+#EXTINF:-1 tvg-id="TV41" tvg-name="寰宇新聞台灣台", 寰宇新聞台灣台
+# Channel: TV41 - 寰宇新聞台灣台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV41.m3u8
+#EXTINF:-1 tvg-id="TV42" tvg-name="MIT台灣誌", MIT台灣誌
+# Channel: TV42 - MIT台灣誌
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV42.m3u8
+#EXTINF:-1 tvg-id="TV43" tvg-name="公視網路直播頻道", 公視網路直播頻道
+# Channel: TV43 - 公視網路直播頻道
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV43.m3u8
+#EXTINF:-1 tvg-id="TV44" tvg-name="MediaoneTV Live", MediaoneTV Live
+# Channel: TV44 - MediaoneTV Live
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV44.m3u8
+#EXTINF:-1 tvg-id="TV45" tvg-name="TBS NEWS", TBS NEWS
+# Channel: TV45 - TBS NEWS
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV45.m3u8
+#EXTINF:-1 tvg-id="TV46" tvg-name="NewsTamil24x7", NewsTamil24x7
+# Channel: TV46 - NewsTamil24x7
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV46.m3u8
+#EXTINF:-1 tvg-id="TV47" tvg-name="大愛二臺HD", 大愛二臺HD
+# Channel: TV47 - 大愛二臺HD
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV47.m3u8
+#EXTINF:-1 tvg-id="TV48" tvg-name="東森購物台CH47", 東森購物台CH47
+# Channel: TV48 - 東森購物台CH47
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV48.m3u8
+#EXTINF:-1 tvg-id="TV49" tvg-name="中天2台", 中天2台
+# Channel: TV49 - 中天2台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV49.m3u8
+#EXTINF:-1 tvg-id="TV50" tvg-name="Malayalam News", Malayalam News
+# Channel: TV50 - Malayalam News
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV50.m3u8
+#EXTINF:-1 tvg-id="TV51" tvg-name="Arirang TV", Arirang TV
+# Channel: TV51 - Arirang TV
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV51.m3u8
+#EXTINF:-1 tvg-id="TV52" tvg-name="CNA LIVE", CNA LIVE
+# Channel: TV52 - CNA LIVE
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV52.m3u8
+#EXTINF:-1 tvg-id="TV53" tvg-name="HTB北海道ニュース", HTB北海道ニュース
+# Channel: TV53 - HTB北海道ニュース
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV53.m3u8
+#EXTINF:-1 tvg-id="TV54" tvg-name="美好購物1台", 美好購物1台
+# Channel: TV54 - 美好購物1台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV54.m3u8
+#EXTINF:-1 tvg-id="TV55" tvg-name="美好購物2台", 美好購物2台
+# Channel: TV55 - 美好購物2台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV55.m3u8
+#EXTINF:-1 tvg-id="TV56" tvg-name="國會頻道１", 國會頻道１
+# Channel: TV56 - 國會頻道１
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV56.m3u8
+#EXTINF:-1 tvg-id="TV57" tvg-name="立法院會議", 立法院會議
+# Channel: TV57 - 立法院會議
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV57.m3u8
+#EXTINF:-1 tvg-id="TV58" tvg-name="123 GO! Live", 123 GO! Live
+# Channel: TV58 - 123 GO! Live
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV58.m3u8
+#EXTINF:-1 tvg-id="TV59" tvg-name="Al Jazeera English", Al Jazeera English
+# Channel: TV59 - Al Jazeera English
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV59.m3u8
+#EXTINF:-1 tvg-id="TV60" tvg-name="Muse木棉花-闔家歡", Muse木棉花-闔家歡
+# Channel: TV60 - Muse木棉花-闔家歡
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV60.m3u8
+#EXTINF:-1 tvg-id="TV61" tvg-name="KBS News", KBS News
+# Channel: TV61 - KBS News
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV61.m3u8
+#EXTINF:-1 tvg-id="TV62" tvg-name="ABCテレビニュース", ABCテレビニュース
+# Channel: TV62 - ABCテレビニュース
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV62.m3u8
+#EXTINF:-1 tvg-id="TV63" tvg-name="YOYO TV", YOYO TV
+# Channel: TV63 - YOYO TV
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV63.m3u8
+#EXTINF:-1 tvg-id="TV64" tvg-name="小猪佩奇", 小猪佩奇
+# Channel: TV64 - 小猪佩奇
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV64.m3u8
+#EXTINF:-1 tvg-id="TV65" tvg-name="Talking Tom", Talking Tom
+# Channel: TV65 - Talking Tom
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV65.m3u8
+#EXTINF:-1 tvg-id="TV66" tvg-name="TalkingFriendsTVMini", TalkingFriendsTVMini
+# Channel: TV66 - TalkingFriendsTVMini
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV66.m3u8
+#EXTINF:-1 tvg-id="TV67" tvg-name="Dave and Ava", Dave and Ava
+# Channel: TV67 - Dave and Ava
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV67.m3u8
+#EXTINF:-1 tvg-id="TV68" tvg-name="Tayo the Little Bus", Tayo the Little Bus
+# Channel: TV68 - Tayo the Little Bus
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV68.m3u8
+#EXTINF:-1 tvg-id="TV69" tvg-name="Disney Junio", Disney Junio
+# Channel: TV69 - Disney Junio
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV69.m3u8
+#EXTINF:-1 tvg-id="TV70" tvg-name="鏡新聞", 鏡新聞
+# Channel: TV70 - 鏡新聞
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV70.m3u8
+#EXTINF:-1 tvg-id="TV71" tvg-name="大陸尋奇", 大陸尋奇
+# Channel: TV71 - 大陸尋奇
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV71.m3u8
+#EXTINF:-1 tvg-id="TV72" tvg-name="CRUX", CRUX
+# Channel: TV72 - CRUX
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV72.m3u8
+#EXTINF:-1 tvg-id="TV73" tvg-name="豬哥會社", 豬哥會社
+# Channel: TV73 - 豬哥會社
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV73.m3u8
+#EXTINF:-1 tvg-id="TV74" tvg-name="TIMES NOW", TIMES NOW
+# Channel: TV74 - TIMES NOW
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV74.m3u8
+#EXTINF:-1 tvg-id="TV75" tvg-name="GTV DRAMA 八大劇樂部", GTV DRAMA 八大劇樂部
+# Channel: TV75 - GTV DRAMA 八大劇樂部
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV75.m3u8
+#EXTINF:-1 tvg-id="TV76" tvg-name="民視戲劇館", 民視戲劇館
+# Channel: TV76 - 民視戲劇館
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV76.m3u8
+#EXTINF:-1 tvg-id="TV77" tvg-name="Lofi Girl", Lofi Girl
+# Channel: TV77 - Lofi Girl
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV77.m3u8
+#EXTINF:-1 tvg-id="TV78" tvg-name="TaiwanPlus", TaiwanPlus
+# Channel: TV78 - TaiwanPlus
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV78.m3u8
+#EXTINF:-1 tvg-id="TV79" tvg-name="earthTV", earthTV
+# Channel: TV79 - earthTV
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV79.m3u8
+#EXTINF:-1 tvg-id="TV80" tvg-name="SBS Running Man", SBS Running Man
+# Channel: TV80 - SBS Running Man
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV80.m3u8
+#EXTINF:-1 tvg-id="TV81" tvg-name="飢餓遊戲", 飢餓遊戲
+# Channel: TV81 - 飢餓遊戲
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV81.m3u8
+#EXTINF:-1 tvg-id="TV82" tvg-name="TVBS NEWS", TVBS NEWS
+# Channel: TV82 - TVBS NEWS
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV82.m3u8
+#EXTINF:-1 tvg-id="TV83" tvg-name="TVBS選新聞", TVBS選新聞
+# Channel: TV83 - TVBS選新聞
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV83.m3u8
+#EXTINF:-1 tvg-id="TV84" tvg-name="Entertainment - Mediacorp", Entertainment - Mediacorp
+# Channel: TV84 - Entertainment - Mediacorp
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV84.m3u8
+#EXTINF:-1 tvg-id="TV85" tvg-name="寰宇新聞財經台", 寰宇新聞財經台
+# Channel: TV85 - 寰宇新聞財經台
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV85.m3u8
+#EXTINF:-1 tvg-id="TV86" tvg-name="LiveNOW from FOX", LiveNOW from FOX
+# Channel: TV86 - LiveNOW from FOX
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV86.m3u8
+#EXTINF:-1 tvg-id="TV87" tvg-name="東森購物台CH34", 東森購物台CH34
+# Channel: TV87 - 東森購物台CH34
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV87.m3u8
+#EXTINF:-1 tvg-id="TV88" tvg-name="InquizeX", InquizeX
+# Channel: TV88 - InquizeX
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV88.m3u8
+#EXTINF:-1 tvg-id="TV89" tvg-name="8world", 8world
+# Channel: TV89 - 8world
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV89.m3u8
+#EXTINF:-1 tvg-id="TV90" tvg-name="倪珍24小時播新聞", 倪珍24小時播新聞
+# Channel: TV90 - 倪珍24小時播新聞
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV90.m3u8
+#EXTINF:-1 tvg-id="TV91" tvg-name="TV5 News", TV5 News
+# Channel: TV91 - TV5 News
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV91.m3u8
+#EXTINF:-1 tvg-id="TV92" tvg-name="公視新聞網", 公視新聞網
+# Channel: TV92 - 公視新聞網
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV92.m3u8
+#EXTINF:-1 tvg-id="TV93" tvg-name="華視新聞", 華視新聞
+# Channel: TV93 - 華視新聞
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV93.m3u8
+#EXTINF:-1 tvg-id="TV94" tvg-name="華視公眾安全資訊觀測站", 華視公眾安全資訊觀測站
+# Channel: TV94 - 華視公眾安全資訊觀測站
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV94.m3u8
+#EXTINF:-1 tvg-id="TV95" tvg-name="東森新聞51 頻道24 小時直播", 東森新聞51 頻道24 小時直播
+# Channel: TV95 - 東森新聞51 頻道24 小時直播
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV95.m3u8
+#EXTINF:-1 tvg-id="TV96" tvg-name="東森綜合2台頻道24 小時直播", 東森綜合2台頻道24 小時直播
+# Channel: TV96 - 東森綜合2台頻道24 小時直播
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV96.m3u8
+#EXTINF:-1 tvg-id="TV97" tvg-name="佛光山人間衛視", 佛光山人間衛視
+# Channel: TV97 - 佛光山人間衛視
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV97.m3u8
+#EXTINF:-1 tvg-id="TV98" tvg-name="Best of MLB", Best of MLB
+# Channel: TV98 - Best of MLB
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV98.m3u8
+#EXTINF:-1 tvg-id="TV99" tvg-name="NHK", NHK
+# Channel: TV99 - NHK
+https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/TV99.m3u8
