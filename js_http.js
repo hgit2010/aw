@@ -28,6 +28,8 @@
 {"key":"py_猎手影视 (1)","name":"🧨猎手影视💈","type":3,"api":"./py/猎手影视 (1).py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"name":"🧨伊外","key":"伊外_嗷呜","type":3,"api":"csp_YIysAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"./jar/bfdb--cvdvds.jar"},
 {"key":"最大点播_sapper","name":"🧨最大点播","type":1,"api":"http://zuidazy.me/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"360資源_zzzypro","name":"360資源_zy","type":1,"api":"https://360zyzz.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"豆瓣資源_zzzypro","name":"豆瓣資源_zy","type":1,"api":"https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/josn/","searchable":1,"changeable":1},
 {"key":"暴风资源_sapper","name":"🧨暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"电影天堂_sapper","name":"🧨电影天堂","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"新韩剧网","name":"✅新韓劇網.py","type":3,"api":"./py/新韩剧网.min.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{}},
