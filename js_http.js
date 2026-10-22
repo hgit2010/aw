@@ -8,9 +8,8 @@
 {"name":"YouTube🇹🇼","type":0,"url":"./tvbus/YouTube(1).txt","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
 {"name":"大陸1️⃣🇨🇳","url":"https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/user_result.m3u","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"大陸2️⃣多源🇨🇳耐心轉圓圈","url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
-{"name":"🚫18","url":"./直播源/18_2.txt","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"AnboxII🇹🇼🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
-
+{"name":"🚫18","url":"./直播源/18_2.txt","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"💿只有音樂","url":"./tvbus/music.txt","ua":"okhttp/3.15","epg":"https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 
 ],
